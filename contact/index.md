@@ -7,19 +7,19 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-Our lab is part of the [Department of Metaphor](), at the school of [Whimsy and Caprice]().
-We are located on the 13th floor of the [Center for Wit and Sagacity]().
+Our lab is part of the Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en), Helsinki, Finland.
+We are located both in the hemalogy laboratory of HUSLAB Tullinpuomi and on the 4th floor of the [Biomedicum Helsinki I](https://biomedicum.com/) building.
 
 {%
   include link.html
   type="email"
   icon=""
-  text="scrooge@mcduck.com"
+  text=""
   tooltip=""
-  link="scrooge@mcduck.com"
+  link="oscar.bruck@hus.fi"
   style="button"
 %}
-{%
+<!-- %%
   include link.html
   type="phone"
   icon=""
@@ -27,14 +27,14 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
   tooltip=""
   link="+1-555-867-5309"
   style="button"
-%}
+%}-->
 {%
   include link.html
   type="address"
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/That+St+%26+The+Other+St,+Porters+Lake,+NS+B3E+1H3,+Canada/@44.7389237,-63.3033296,20.78z/data=!4m5!3m4!1s0x4b5a31023bb02565:0xb9505694e83a53d7!8m2!3d44.7389353!4d-63.3030828"
+  link="https://www.google.com/maps/place/Biomedicum/@60.2196817,24.7911862,11.33z/data=!4m5!3m4!1s0x46920a1fa6324c07:0x5e3bcefb5b26e3e1!8m2!3d60.1906098!4d24.9056856"
   style="button"
 %}
 {:.center}
@@ -43,23 +43,31 @@ We are located on the 13th floor of the [Center for Wit and Sagacity]().
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-That St & The Other St  
-Porters Lake, NS B3E 1H3  
-Canada
+Biomedicum Helsinki 1, Hematoscope / Oscar
+Haartmaninkatu 8 00290 Helsinki Finland
+or
+P.O. Box 700, 00029 Helsinki Finland
 {:.center}
 
 {% capture col1 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="The Center for Wit and Sagacity"
+  image="images/biomedicum.jpg"
+  caption="Biomedicum Helsinki I"
 %}
 {% endcapture %}
 {% capture col2 %}
 {%
   include figure.html
-  image="images/photo.jpg"
-  caption="Department of Metaphor"
+  image="images/hus.jpg"
+  caption="Helsinki University Hospital"
 %}
 {% endcapture %}
-{% include two-col.html col1=col1 col2=col2 %}
+{% capture col3 %}
+{%
+  include figure.html
+  image="images/bm.jpg"
+  caption="Biomedicum Helsinki I"
+%}
+{% endcapture %}
+{% include three-col.html col1=col1 col2=col2 col3=col3 %}
