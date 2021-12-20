@@ -43,19 +43,18 @@ We are located both in the hemalogy clinical laboratory of [HUSLAB Tullinpuomi](
 
 ### <i class="fas fa-mail-bulk"></i>Mailing Address
 
-Biomedicum Helsinki 1, Hematoscope / Oscar
-Haartmaninkatu 8 00290 Helsinki Finland  
+Biomedicum Helsinki 1, Hematoscope Haartmaninkatu 8 00290 Helsinki Finland  
 or  
 P.O. Box 700, 00029 Helsinki Finland
 {:.center}
 
-{% capture col1 %}
+<!--{% capture col1 %}-->
 {%
   include figure.html
   image="images/meilahti.jpeg"
   caption="The Meilahti Clinical & Science HUB"
 %}
-{% endcapture %}
+<!--{% endcapture %}-->
 <!--% capture col2 %}
 {%
   include figure.html
