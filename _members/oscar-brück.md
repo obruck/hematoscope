@@ -1,7 +1,7 @@
 ---
 name: Oscar Brück
 image: images/oscarbruck.jpg
-#description: Principal Investigator
+description: Physician, programmer, scanner engineer
 role: pi
 #aliases:
 # - U. Goode
