@@ -51,8 +51,7 @@ filters="role: undergrad"
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Currently, we welcome students and programmers with experience in image analysis, software development and database management. Feel free to reach out!
 
 {%
   include link.html
