@@ -12,4 +12,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Otso is Bachelor of Science and a student of Bioinformation Technology at Department of Neuroscience and Biomedical Engineering, Aalto University. Otso is a talented programmer familiar with different database structures, smooth data analysis pipelines and interactive user interfaces. Currently, he is working on automated cell detection and classification from MGG-stained samples.
+Johanna is a slide scanner engineer working in the department of hematology, HUSLAB. Johanna is responsible that slides are converted to high-resolution images. Johanna is very cheerful and innovative! Thanks to her we have been able to slowly increase our scanning capacity from 400 slides to an extraordinary pace of >700 slides/week!
