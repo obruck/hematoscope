@@ -1,19 +1,28 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
-- id: doi:10.1016/j.csbj.2020.05.017
-  title: Constructing knowledge graphs and their biomedical applications
+- id: doi:10.1158/2643-3230.BCD-20-0162
+  title: Machine Learning of Bone Marrow Histopathology Identifies Genetic and Clinical
+    Determinants in Patients with MDS
   authors:
-  - David N. Nicholson
-  - Casey S. Greene
-  publisher: Computational and Structural Biotechnology Journal
-  date: '2020-06-02'
-  link: https://doi.org/gg7m48
-  image: https://ars.els-cdn.com/content/image/1-s2.0-S2001037020302804-gr1.jpg
-  extra-links:
-  - type: manubot
-    link: https://greenelab.github.io/knowledge-graph-review/
+  - "Oscar E. Br\xFCck"
+  - "Susanna E. Lallukka-Br\xFCck"
+  - Helena R. Hohtari
+  - Aleksandr Ianevski
+  - Freja T. Ebeling
+  - Panu E. Kovanen
+  - "Soili I. Kyt\xF6l\xE4"
+  - Tero A. Aittokallio
+  - Pedro M. Ramos
+  - Kimmo V. Porkka
+  - Satu M. Mustjoki
+  publisher: Blood Cancer Discovery
+  date: '2021-05-01'
+  link: https://doi.org/gntvj2
+  image: https://bloodcancerdiscov.aacrjournals.org/content/bloodcandisc/2/3/238/F1.large.jpg
   tags:
-  - knowledge graphs
+  - computer vision
+  - myelodysplastic syndrome
+  - genetics
 - id: doi:10.1371/journal.pcbi.1007128
   title: Open collaborative writing with Manubot
   authors:
