@@ -1,6 +1,6 @@
 - id: doi:10.1158/2643-3230.BCD-20-0162
-  image: https://bloodcancerdiscov.aacrjournals.org/content/bloodcandisc/2/3/238/F1.large.jpg
-  ##date: 2021-5-1
+  image: images/MDS_unsupervised.tiff
+  #date: 2021-5-1
   #extra-links:
   #  - type: manubot
   #    link: https://greenelab.github.io/knowledge-graph-review/
@@ -9,9 +9,13 @@
     - myelodysplastic syndrome
     - genetics
 
-- id: doi:10.1371/journal.pcbi.1007128
-  image: https://journals.plos.org/ploscompbiol/article/figure/image?size=inline&id=info:doi/10.1371/journal.pcbi.1007128.g001&rev=2
-  repo: greenelab/meta-review
+- id: doi:10.1016/j.ccell.2020.06.002
+  image: images/cancercell.jpg
+  tags:
+    - hematology
+    - big data
+    - genetics
+  #repo: greenelab/meta-review
   #extra-links:
     #- type: manubot
     #  link: https://greenelab.github.io/meta-review/
@@ -20,5 +24,9 @@
     #- type: website
     #  link: http://manubot.org/
 
-- id: doi:10.7554/eLife.32822
-  image: https://iiif.elifesciences.org/lax:32822%2Felife-32822-fig8-v3.tif/full/863,/0/default.webp
+- id: doi:10.1158/2159-8290.CD-21-0410
+  image: images/ism2.jpeg
+  tags:
+    - aml
+    - multiomics
+    - drug sentivity screening
