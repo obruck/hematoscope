@@ -6,10 +6,10 @@ role: undergrad
 #aliases:
 # - U. Goode
 links:
-  linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
+  #linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
   #email: oscarbruck@hus.fi 
   #twitter: oscarbruck
 ---
 
-Mikko is Bachelor of Science and a student of Complex Systems at the Department of Bioinformation Technology, Aalto University. Mikko is a data-driven person and interested in harnessing the full potential of available data in order to produce meaningful products, especially in the field of healthcare. Currently, he is working on his master's thesis by developping automated texture analysis of MGG-stained whole-slide images and an automated reporting pipeline.
+Otso is Bachelor of Science and a student of Bioinformation Technology at Department of Neuroscience and Biomedical Engineering, Aalto University. Otso is a talented programmer familiar with different database structures, smooth data analysis pipelines and interactive user interfaces. Currently, he is working on automated cell detection and classification from MGG-stained samples.
