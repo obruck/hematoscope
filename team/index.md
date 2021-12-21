@@ -79,7 +79,7 @@ Our work is made possible by funding from several organizations.
   link1="https://www.hus.fi/en/"
   tooltip1="HUS"
 
-  image2="images/huslab.jpeg"
+  image2="images/huslab.jpg"
   link2="https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging"
   tooltip2="HUSLAB"
 
