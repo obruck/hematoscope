@@ -1,7 +1,7 @@
 ---
 name: Sanna Siitonen
 image: images/member.jpg
-description: Laboratory Medicine
+#description: Laboratory Medicine
 role: md
 #links:
 #  home-page: felixcited.com
