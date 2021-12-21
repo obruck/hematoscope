@@ -9,7 +9,7 @@ nav:
 
 The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, bioinformaticians and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
-
+<!--
 {% include section.html %}
 
 {%
@@ -59,7 +59,7 @@ We welcome computer vision programmers, software engineers and data analysts. Re
   icon="fas fa-hands-helping"
   text="Join the Team"
   link="join"
-  <!--link=oscar.bruck@hus.fi-->
+  link=oscar.bruck@hus.fi
   style="button"
 %}
 {:.center}
@@ -81,7 +81,7 @@ Our work is made possible by funding from several organizations.
 
   image2="images/pss.png"
   link2="https://pss-saatio.fi/en/"
-  tooltip2="Päivikki and Sakari Sohlberg Foundation" -->
+  tooltip2="Päivikki and Sakari Sohlberg Foundation"
 
   image1="images/photo.jpg"
   link1="https://nasa.gov/"
@@ -105,5 +105,5 @@ Our work is made possible by funding from several organizations.
 
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"-->
-%}
+  tooltip6="Cool Initiative"
+%} -->
