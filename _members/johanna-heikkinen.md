@@ -5,7 +5,7 @@ image: images/member.jpg
 role: engineer
 #aliases:
 # - U. Goode
-links:
+#links:
   #linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
   #email: oscarbruck@hus.fi 
