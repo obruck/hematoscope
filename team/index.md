@@ -70,7 +70,21 @@ Currently, we welcome students and programmers with experience in image analysis
 Our work is made possible by funding from several organizations.
 {:.center}
 
+
 {%
+  include gallery.html
+  style="square"
+
+  image1="images/hus.png"
+  link1="https://www.hus.fi/en/"
+  tooltip1="HUS and HUSLAB"
+
+  image2="images/pss.png"
+  link2="https://pss-saatio.fi/en/"
+  tooltip2="Paivikki and Sakari Sohlberg Foundation"
+%}
+
+<!--{%
   include gallery.html
   style="square"
 
@@ -97,4 +111,4 @@ Our work is made possible by funding from several organizations.
   image6="images/photo.jpg"
   link6="https://nasa.gov/"
   tooltip6="Cool Initiative"
-%}
+%}-->
