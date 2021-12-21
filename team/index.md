@@ -9,7 +9,6 @@ nav:
 
 The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, bioinformaticians and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
-<!--
 {% include section.html %}
 
 {%
@@ -70,7 +69,7 @@ We welcome computer vision programmers, software engineers and data analysts. Re
 
 Our work is made possible by funding from several organizations.
 {:.center}
-
+<!--
 {%
   include gallery.html
   style="square"
