@@ -7,8 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-<!--The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, bioinformaticians and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.-->
-HH
+The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, bioinformaticians and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
 {% include section.html %}
 
@@ -30,7 +29,7 @@ HH
   component="portrait"
   filters="role: phd"
 %}
-{%
+<!--{%
   include list.html
   data="members"
   component="portrait"
@@ -47,7 +46,7 @@ HH
   data="members"
   component="portrait"
   filters="role: undergrad"
-%}
+%}-->
 {:.center}
 
 
