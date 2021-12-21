@@ -1,9 +1,9 @@
 - id: doi:10.1158/2643-3230.BCD-20-0162
   image: https://bloodcancerdiscov.aacrjournals.org/content/bloodcandisc/2/3/238/F1.large.jpg
-  date: 2021-5-1
+  #date: 2021-5-1
   extra-links:
     - type: manubot
-      #link: https://greenelab.github.io/knowledge-graph-review/
+      link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - computer vision
     - myelodysplastic syndrome
