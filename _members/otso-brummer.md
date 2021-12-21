@@ -6,7 +6,7 @@ role: undergrad
 #aliases:
 # - U. Goode
 #links:
-  #linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
+  linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
   #email: oscarbruck@hus.fi 
   #twitter: oscarbruck

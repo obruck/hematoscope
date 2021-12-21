@@ -6,7 +6,7 @@ role: undergrad
 #aliases:
 # - U. Goode
 #links:
- #linkedin: https://www.linkedin.com/in/mikko-purhonen-02b4ba136/?originalSubdomain=fi
+  linkedin: https://www.linkedin.com/in/mikko-purhonen-02b4ba136/?originalSubdomain=fi
   #orcid: 0000-0002-7842-9419
   #email: oscarbruck@hus.fi 
   #twitter: oscarbruck
