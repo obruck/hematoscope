@@ -15,7 +15,7 @@
     - hematology
     - big data
     - genetics
-  #repo: greenelab/meta-review
+  ##repo: greenelab/meta-review
   #extra-links:
     #- type: manubot
     #  link: https://greenelab.github.io/meta-review/
