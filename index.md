@@ -2,12 +2,11 @@
 title: Home
 ---
 
-# Your Lab Slogan
+# Hematology & microscopy
 
-[Lab Website Template](https://github.com/greenelab/lab-website-template) is an easy-to-use, flexible website template for [labs](https://www.greenelab.com/), with automatic citations, GitHub tag imports, pre-built components, and more.
-Spend less time reinventing the wheel, and more time running your lab.
+The Hematoscope Lab is an academic team of physicians, programmers, scanner engineers and students affiliated with the Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en/) and [HUSLAB](https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging). We aim to solve how clinical experts can harness machines to better understand, diagnose and monitor hematological diseases. Our approach is to combine high-resolution automated imaging, big data analysis in the hospital Datalake and deep learning-based image analysis.
   
-{%
+<!--{%
   include link.html
   type="github"
   icon=""
@@ -24,6 +23,7 @@ Spend less time reinventing the wheel, and more time running your lab.
   style="button"
 %}
 {:.center}
+-->
 
 {% include section.html full=true %}
 
