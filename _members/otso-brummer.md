@@ -2,7 +2,7 @@
 name: Otso Brummer
 image: images/member.jpg
 #description: Principal investigator
-role: undergrad
+role: programmer
 links:
   linkedin: https://www.linkedin.com/in/otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
