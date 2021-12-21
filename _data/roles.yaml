@@ -2,7 +2,7 @@ pi:
   icon: fas fa-microscope
   text: Principal Investigator
 
-physician:
+md:
   icon: fas fa-user-md
   text: Physician
 
