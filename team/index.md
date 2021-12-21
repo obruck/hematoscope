@@ -58,6 +58,7 @@ We welcome computer vision programmers, software engineers and data analysts. Re
   include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
+  link="join"
   <!--link=oscar.bruck@hus.fi-->
   style="button"
 %}
