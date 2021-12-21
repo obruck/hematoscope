@@ -34,8 +34,7 @@ The Hematoscope Lab is an academic team of physicians, programmers, scanner engi
 # Highlights
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+We aim to develop novel clinical tools to study patient samples, to improve the prognosis of patients and to save resources by better allocating treatments to patients.
 
 [See what we've published &nbsp;→](research)
 {:.center}
@@ -45,13 +44,12 @@ Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliqu
   include feature.html
   image="images/photo.jpg"
   link="research"
-  headline="Our Research"
+  headline="Research strategy"
   text=text
 %}
 
 {% capture text %}
-Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+We invest most of our efforts on collecting the world's largest high-resolution image dataset of MGG-stained patient samples and on developing deep learning-based algorithms to combine images to other patient data.
 
 [See our resources &nbsp;→](resources)
 {:.center}
@@ -66,7 +64,7 @@ Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deseru
 %}
 
 {% capture text %}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our team is composed of ambitious and innovative reseachers. We believe in an inclusive work environment where everyone has an important role in achieving our goals.
 
 [Meet our team &nbsp;→](team)
 {:.center}
