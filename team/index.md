@@ -74,15 +74,23 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/hus.png"
+  <!-- image1="images/hus.png"
   link1="https://www.hus.fi/en/"
   tooltip1="HUS and HUSLAB"
 
   image2="images/pss.png"
   link2="https://pss-saatio.fi/en/"
-  tooltip2="Päivikki and Sakari Sohlberg Foundation"
+  tooltip2="Päivikki and Sakari Sohlberg Foundation" -->
 
-  <!--image3="images/photo.jpg"
+  image1="images/photo.jpg"
+  link1="https://nasa.gov/"
+  tooltip1="Cool Initiative"
+
+  image2="images/photo.jpg"
+  link2="https://nasa.gov/"
+  tooltip2="Cool Foundation"
+  
+  image3="images/photo.jpg"
   link3="https://nasa.gov/"
   tooltip3="Cool Initiative"
 

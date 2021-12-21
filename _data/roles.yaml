@@ -23,7 +23,7 @@ programmer:
   text: Programmer
 
 engineer:
-  icon: fas fa-code #fa-user-astronaut
+  icon: fas fa-user-astronaut
   text: Engineer
 
 mascot:
