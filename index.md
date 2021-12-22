@@ -27,7 +27,7 @@ The Hematoscope Lab is an academic team of physicians, programmers, scanner engi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/banner.jpg" %}
+{% include banner.html image="images/home/aims.jpeg" %}
 
 {% include section.html %}
 
@@ -42,7 +42,7 @@ We aim to develop novel clinical tools to study patient samples, to improve the 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/strategy.jpeg"
   link="research"
   headline="Research strategy"
   text=text
@@ -57,7 +57,7 @@ We invest most of our efforts on collecting the world's largest high-resolution 
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/resources.jpeg"
   link="resources"
   headline="Our Resources"
   text=text
@@ -72,7 +72,7 @@ Our team is composed of ambitious and innovative reseachers. We believe in an in
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/home/team.jpeg"
   link="team"
   headline="Our Team"
   text=text
