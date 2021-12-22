@@ -57,7 +57,7 @@ We invest most of our efforts on collecting the world's largest high-resolution 
 
 {%
   include feature.html
-  image="images/home/resources.jpeg"
+  image="images/home/resources.png"
   link="resources"
   headline="Our Resources"
   text=text
@@ -72,7 +72,7 @@ Our team is composed of ambitious and innovative reseachers. We believe in an in
 
 {%
   include feature.html
-  image="images/home/team.jpeg"
+  image="images/home/team.png"
   link="team"
   headline="Our Team"
   text=text
