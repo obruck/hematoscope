@@ -1,34 +1,49 @@
-- name: Cool Dataset
+
+- name: MDS tissue texture
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/mds_umap.png
+  link: http://hruh-20.it.helsinki.fi/mds_visualization/
+  description: UMAP visualization of bone marrow texture extracted with a convolutional neural network
+  #repo: greenelab/lab-website-template
 
-- name: Cool Package
+- name: Hematology datalake catalogue
   group: featured
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+  image: images/tools/HUS_Tietoevry_cleverhealth_141221.png
+  link: https://www.oscarbruck.fi/datalake
+  description: Dashboard of the HUS hematology datalake
+  #repo: greenelab/lab-website-template
 
-- name: Cool Tutorial
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web App
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
-
-- name: Cool Web Server
-  group: more
-  image: images/photo.jpg
-  link: https://github.com/
-  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-  repo: greenelab/lab-website-template
+#- name: Cool Dataset
+#  group: featured
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#
+#- name: Cool Package
+#  group: featured
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#
+#- name: Cool Tutorial
+#  group: more
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#
+#- name: Cool Web App
+#  group: more
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
+#
+#- name: Cool Web Server
+#  group: more
+#  image: images/photo.jpg
+#  link: https://github.com/
+#  description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+#  repo: greenelab/lab-website-template
