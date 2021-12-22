@@ -18,7 +18,7 @@
   publisher: Blood Cancer Discovery
   date: '2021-05-01'
   link: https://doi.org/gntvj2
-  image: images/mds_bcd.jpeg
+  image: images/publications/mds_bcd.jpeg
   tags:
   - computer vision
   - myelodysplastic syndrome
@@ -54,7 +54,7 @@
   publisher: Cancer Cell
   date: '2020-09-01'
   link: https://doi.org/gg4nbd
-  image: images/cancercell.jpeg
+  image: images/publications/cancercell.jpeg
   tags:
   - hematology
   - big data
@@ -79,7 +79,7 @@
   publisher: Modern Pathology
   date: '2021-07-02'
   link: https://doi.org/gm4hd3
-  image: images/rcc.jpeg
+  image: images/publications/rcc.jpeg
   tags:
   - renal cell carcinoma
   - spatial image analysis
@@ -118,7 +118,7 @@
   publisher: Cancer Discovery
   date: '2021-11-17'
   link: https://doi.org/gnkbvc
-  image: images/ism2.jpeg
+  image: images/publications/ism2.jpeg
   tags:
   - acute myeloid leukemia
   - multiomics
@@ -147,7 +147,7 @@
   publisher: Blood Advances
   date: '2020-01-28'
   link: https://doi.org/gh9b8t
-  image: images/aml_imm.jpeg
+  image: images/publications/aml_imm.jpeg
   tags:
   - acute myeloid leukemia
   - immunology
@@ -169,7 +169,7 @@
   publisher: Leukemia
   date: '2019-01-11'
   link: https://doi.org/gh6fn8
-  image: images/ball_imm.jpeg
+  image: images/publications/ball_imm.jpeg
   tags:
   - acute lymphoid leukemia
   - immunology
@@ -194,7 +194,7 @@
   publisher: Leukemia
   date: '2018-06-20'
   link: https://doi.org/gdv2ts
-  image: images/cml_imm.jpeg
+  image: images/publications/cml_imm.jpeg
   tags:
   - chronic myeloid leukemia
   - immunology
@@ -212,7 +212,7 @@
   publisher: Clinical Cancer Research
   date: '2021-12-14'
   link: https://doi.org/gntwt5
-  image: images/dlbcl_imm.jpeg
+  image: images/publications/dlbcl_imm.jpeg
   tags:
   - b-cell lymphoma
   - immunology
