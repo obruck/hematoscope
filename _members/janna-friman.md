@@ -1,6 +1,6 @@
 ---
 name: Jaana Friman
-image: images/member.jpg
+image: images/members/member.jpg
 #description: Principal investigator
 role: engineer
 #aliases:

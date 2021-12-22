@@ -75,15 +75,15 @@ Our work is made possible by funding from several organizations.
   include gallery.html
   style="square"
 
-  image1="images/hus.png"
+  image1="images/funding/hus.png"
   link1="https://www.hus.fi/en/"
   tooltip1="HUS"
 
-  image2="images/huslab.png"
+  image2="images/funding/huslab.png"
   link2="https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging"
   tooltip2="HUSLAB"
 
-  image3="images/pss.png"
+  image3="images/funding/pss.png"
   link3="https://pss-saatio.fi/en/"
   tooltip3="Päivikki and Sakari Sohlberg Foundation"
 %}

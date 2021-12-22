@@ -1,5 +1,5 @@
 - id: doi:10.1158/2643-3230.BCD-20-0162
-  image: images/mds_bcd.jpeg
+  image: images/publications/mds_bcd.jpeg
   #date: 2021-5-1
   #extra-links:
   #  - type: manubot
@@ -10,7 +10,7 @@
     - genetics
 
 - id: doi:10.1016/j.ccell.2020.06.002
-  image: images/cancercell.jpeg
+  image: images/publications/cancercell.jpeg
   tags:
     - hematology
     - big data
@@ -26,42 +26,42 @@
     #  link: http://manubot.org/
 
 - id: doi:10.1038/s41379-021-00864-0
-  image: images/rcc.jpeg
+  image: images/publications/rcc.jpeg
   tags:
     - renal cell carcinoma
     - spatial image analysis
     - immunology
 
 - id: doi:10.1158/2159-8290.CD-21-0410
-  image: images/ism2.jpeg
+  image: images/publications/ism2.jpeg
   tags:
     - acute myeloid leukemia
     - multiomics
     - drug sentivity screening
 
 - id: doi:10.1182/bloodadvances.2019000792
-  image: images/aml_imm.jpeg
+  image: images/publications/aml_imm.jpeg
   tags:
     - acute myeloid leukemia
     - immunology
     - image analysis
 
 - id: doi:10.1038/s41375-018-0360-1
-  image: images/ball_imm.jpeg
+  image: images/publications/ball_imm.jpeg
   tags:
     - acute lymphoid leukemia
     - immunology
     - image analysis
 
 - id: doi:10.1038/s41375-018-0175-0
-  image: images/cml_imm.jpeg
+  image: images/publications/cml_imm.jpeg
   tags:
     - chronic myeloid leukemia
     - immunology
     - image analysis
 
 - id: doi:10.1158/1078-0432.CCR-21-3140
-  image: images/dlbcl_imm.jpeg
+  image: images/publications/dlbcl_imm.jpeg
   tags:
     - b-cell lymphoma
     - immunology

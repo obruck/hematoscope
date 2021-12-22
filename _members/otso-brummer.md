@@ -1,6 +1,6 @@
 ---
 name: Otso Brummer
-image: images/member.jpg
+image: images/members/otsobrummer.jpg
 #description: Principal investigator
 role: programmer
 links:

@@ -51,7 +51,7 @@ P.O. Box 700, 00029 Helsinki Finland
 <!--{% capture col1 %}-->
 {%
   include figure.html
-  image="images/meilahti.jpeg"
+  image="images/contacts/meilahti.jpeg"
   caption="The Meilahti Clinical & Science HUB"
 %}
 {:.center}

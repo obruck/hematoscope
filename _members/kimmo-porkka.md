@@ -1,6 +1,6 @@
 ---
 name: Kimmo Porkka
-image: images/kimmoporkka.jpg
+image: images/members/kimmoporkka.jpg
 #description: Clinical Hematology
 role: md
 links:
