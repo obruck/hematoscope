@@ -4,7 +4,7 @@
 title: Hematoscope
 description: The official website for the Hematoscope Lab.
 #logo: images/logo.svg
-logo: images/favicons/favicon.png
+logo: favicons/favicon.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: /hematoscope
