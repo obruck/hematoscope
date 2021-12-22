@@ -1,6 +1,6 @@
 ---
 name: Mikko Purhonen
-image: images/member.jpg
+image: images/members/mikkopurhonen.jpg
 #description: Principal investigator
 role: undergrad
 links:
