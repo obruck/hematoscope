@@ -55,10 +55,10 @@ Currently, we welcome students and programmers with experience in image analysis
 {:.center}
 
 {%
-  include link_mail.html
+  include link.html
   icon="fas fa-hands-helping"
   text="Join the Team"
-  link=mailto:oscar.bruck@hus.fi
+  link="contact"
   style="button"
 %}
 {:.center}
