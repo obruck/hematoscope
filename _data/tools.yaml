@@ -3,7 +3,7 @@
   group: featured
   image: images/tools/mds_umap.png
   link: http://hruh-20.it.helsinki.fi/mds_visualization/
-  description: UMAP visualization of bone marrow texture extracted with a convolutional neural network
+  description: UMAP visualization of morphologic features of the bone marrow of patients with diagnosed myelodysplastic syndromes extracted with a convolutional neural network
   #repo: greenelab/lab-website-template
 
 - name: Hematology datalake catalogue
