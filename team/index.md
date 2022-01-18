@@ -87,9 +87,9 @@ Our work is made possible by funding from several organizations.
   link3="https://pss-saatio.fi/en/"
   tooltip3="Päivikki and Sakari Sohlberg Foundation"
   
-  image3="images/funding/fls.png"
-  link3="https://fls.fi/"
-  tooltip3="Finska Läkaresällskapet Foundation"
+  image4="images/funding/fls.png"
+  link4="https://fls.fi/"
+  tooltip4="Finska Läkaresällskapet Foundation"
 %}
 
 <!--{%
