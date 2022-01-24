@@ -51,7 +51,7 @@ We aim to develop novel clinical tools to study patient samples, to improve the 
 {% capture text %}
 We invest most of our efforts on collecting the world's largest high-resolution image dataset of MGG-stained patient samples and on developing deep learning-based algorithms to combine images to other patient data.
 
-[See our resources &nbsp;→](resources)
+[See our resources &nbsp;→](tools)
 {:.center}
 {% endcapture %}
 
