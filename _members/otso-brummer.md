@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Otso is Bachelor of Science and a student of Bioinformation Technology at Department of Neuroscience and Biomedical Engineering, Aalto University. Otso is a talented programmer familiar with different database structures, smooth data analysis pipelines and interactive user interfaces. Currently, he is working on automated cell detection and classification from MGG-stained samples.
+Otso (MSc) graduated in Jan 2022 from Bioinformation Technology at Department of Neuroscience and Biomedical Engineering, Aalto University. Otso is a talented programmer familiar with different database structures, smooth data analysis pipelines and interactive user interfaces. Currently, he is working on automated cell detection and classification from MGG-stained samples.
