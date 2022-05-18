@@ -90,6 +90,14 @@ Our work is made possible by funding from several organizations.
   image4="images/funding/fls.png"
   link4="https://fls.fi/"
   tooltip4="Finska Läkaresällskapet Foundation"
+
+  image5="images/funding/gyllenberg.png"
+  link5="https://www.gyllenbergs.fi/en"
+  tooltip5="Signe & Ane Gyllenberg Foundation"
+
+  image6="images/funding/rbs.png"
+  link6="https://runarbackstrominsaatio.fi/en/"
+  tooltip6="Runar Bäckström Foundation"
 %}
 
 <!--{%
