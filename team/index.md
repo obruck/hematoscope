@@ -98,6 +98,10 @@ Our work is made possible by funding from several organizations.
   image6="images/funding/rbs.png"
   link6="https://runarbackstrominsaatio.fi/en/"
   tooltip6="Runar Bäckström Foundation"
+
+  image7="images/funding/laaketieteensaatio.png"
+  link7="https://laaketieteensaatio.fi/en/home/"
+  tooltip7="Finnish Medical Foundation"
 %}
 
 <!--{%

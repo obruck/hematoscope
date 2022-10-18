@@ -2,7 +2,7 @@
 name: Mikko Purhonen
 image: images/members/mikkopurhonen.jpg
 #description: Principal investigator
-role: undergrad
+role: programmer
 links:
   linkedin: mikko-purhonen-02b4ba136/?originalSubdomain=fi
   #orcid: 0000-0002-7842-9419
