@@ -102,6 +102,22 @@ Our work is made possible by funding from several organizations.
   image7="images/funding/laaketieteensaatio.png"
   link7="https://laaketieteensaatio.fi/en/home/"
   tooltip7="Finnish Medical Foundation"
+  
+  image8="images/funding/syopasaatio.png"
+  link8="https://syopasaatio.fi/"
+  tooltip8="Finnish Cancer Foundation"
+  
+  image9="images/funding/minerva.png"
+  link9="https://minervafoundation.fi"
+  tooltip9="Minerva Foundation"
+  
+  image10="images/funding/gilead.png"
+  link10="https://www.gilead.com/science-and-medicine/research"
+  tooltip10="Gilead Sciences"
+  
+  image11="images/funding/pfizer.png"
+  link11="https://www.pfizer.com/science"
+  tooltip11="Pfizer"
 %}
 
 <!--{%
