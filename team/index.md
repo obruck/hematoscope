@@ -111,13 +111,21 @@ Our work is made possible by funding from several organizations.
   link9="https://minervafoundation.fi"
   tooltip9="Minerva Foundation"
   
-  image10="images/funding/gilead.png"
-  link10="https://www.gilead.com/science-and-medicine/research"
-  tooltip10="Gilead Sciences"
+  image10="images/funding/KAlbinJohansson.png"
+  link10="https://www.foundationweb.net/johansson/"
+  tooltip10="K Albin Johansson Foundation"
   
-  image11="images/funding/pfizer.png"
-  link11="https://www.pfizer.com/science"
-  tooltip11="Pfizer"
+  image11="images/funding/paulo.png"
+  link11="https://www.paulo.fi/"
+  tooltip11="Paulo Foundation"
+  
+  image12="images/funding/gilead.png"
+  link12="https://www.gilead.com/science-and-medicine/research"
+  tooltip12="Gilead Sciences"
+  
+  image13="images/funding/pfizer.png"
+  link13="https://www.pfizer.com/science"
+  tooltip13="Pfizer"
 %}
 
 <!--{%
