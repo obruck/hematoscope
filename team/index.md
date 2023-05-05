@@ -54,7 +54,7 @@ filters="role: undergrad"
 include list.html
 data="members"
 component="portrait"
-filters="role: undergrad"
+filters="role: alumni"
 %}
 
 {:.center}
