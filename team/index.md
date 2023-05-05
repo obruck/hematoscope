@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, bioinformaticians and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
+The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, machine learning engineers, software engineers and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
 {% include section.html %}
 
@@ -51,7 +51,7 @@ filters="role: undergrad"
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python). Our other key areas of development include image analysis, software development, HL7 FHIR implementation, and database management. Feel free to reach out!
+Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python). Our other key areas of development include cloud computing, software development, HL7 FHIR implementation, and database management. Feel free to reach out!
 {:.center}
 
 {%
@@ -126,33 +126,8 @@ Our work is made possible by funding from several organizations.
   image13="images/funding/pfizer.png"
   link13="https://www.pfizer.com/science"
   tooltip13="Pfizer"
+  
+  image14="images/funding/aka.png"
+  link14="https://www.aka.fi/en/"
+  tooltip14="Academy of Finland"
 %}
-
-<!--{%
-  include gallery.html
-  style="square"
-
-  image1="images/photo.jpg"
-  link1="https://nasa.gov/"
-  tooltip1="Cool Foundation"
-
-  image2="images/photo.jpg"
-  link2="https://nasa.gov/"
-  tooltip2="Cool Institute"
-
-  image3="images/photo.jpg"
-  link3="https://nasa.gov/"
-  tooltip3="Cool Initiative"
-
-  image4="images/photo.jpg"
-  link4="https://nasa.gov/"
-  tooltip4="Cool Foundation"
-
-  image5="images/photo.jpg"
-  link5="https://nasa.gov/"
-  tooltip5="Cool Institute"
-
-  image6="images/photo.jpg"
-  link6="https://nasa.gov/"
-  tooltip6="Cool Initiative"
-%}-->
