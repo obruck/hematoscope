@@ -12,7 +12,7 @@ The Hematoscope Lab is a translational research group. Our researchers are engag
 <div style="text-align: center;">
 <a href="../images/gep/gep.pdf" style="display: inline-block; text-decoration: none;">
 <img src="../images/gep/genderequality.png" alt="Gender equality plan" style="display: block; margin: 0 auto; font-weight: bold;">
-<p style="font-weight: bold;">Gender equality class</p>
+<p style="font-weight: bold;">Gender equality plan</p>
 </a>
 </div>
 
