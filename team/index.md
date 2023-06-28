@@ -76,7 +76,6 @@ Currently, we welcome students and/or programmers with experience especially in 
 <div style="text-align: center;">
 <a href="../images/gep/gep.pdf" style="display: inline-block; text-decoration: none;">
 <img src="../images/gep/genderequality.png" alt="Gender equality plan" style="display: block; margin: 0 auto; font-weight: bold; width: 50%;">
-<p style="font-weight: bold;">Gender equality plan</p>
 </a>
 </div>
 
