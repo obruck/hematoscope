@@ -75,8 +75,8 @@ Currently, we welcome students and/or programmers with experience especially in 
 
 {%
 include link.html
-icon="fa-solid fa-venus-mars"
-text="Gender equality plan"
+icon="fas fa-venus-mars"
+text="Gender Equality Plan"
 link="images/gep/gep.pdf"
 style="button"
 %}
