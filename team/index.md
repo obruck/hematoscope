@@ -73,11 +73,14 @@ Currently, we welcome students and/or programmers with experience especially in 
 %}
 {:.center}
 
-<div style="text-align: center;">
-<a href="../images/gep/gep.pdf" style="display: inline-block; text-decoration: none;">
-<img src="../images/gep/genderequality.png" alt="Gender equality plan" style="display: block; margin: 0 auto; font-weight: bold; width: 50%;">
-</a>
-</div>
+{%
+include link.html
+icon="images/gep/gep.pdf"
+text="Gender equality plan"
+link="images/gep/gep.pdf"
+style="button"
+%}
+{:.center}
 
 {% include section.html %}
 
