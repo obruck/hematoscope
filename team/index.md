@@ -9,13 +9,6 @@ nav:
 
 The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, machine learning engineers, software engineers and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
-<div style="text-align: center;">
-<a href="../images/gep/gep.pdf" style="display: inline-block; text-decoration: none;">
-<img src="../images/gep/genderequality.png" alt="Gender equality plan" style="display: block; margin: 0 auto; font-weight: bold;">
-<p style="font-weight: bold;">Gender equality plan</p>
-</a>
-</div>
-
 {% include section.html %}
 
 {%
@@ -79,6 +72,13 @@ Currently, we welcome students and/or programmers with experience especially in 
   style="button"
 %}
 {:.center}
+
+<div style="text-align: center;">
+<a href="../images/gep/gep.pdf" style="display: inline-block; text-decoration: none;">
+<img src="../images/gep/genderequality.png" alt="Gender equality plan" style="display: block; margin: 0 auto; font-weight: bold; width: 50%;">
+<p style="font-weight: bold;">Gender equality plan</p>
+</a>
+</div>
 
 {% include section.html %}
 
