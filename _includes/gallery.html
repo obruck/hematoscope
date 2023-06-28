@@ -22,9 +22,9 @@
             <img src="{{ image }}" alt="Image {{ i }}">
           </a>
         </div>
+        
+        {% cycle '', '', '', '</div><div class="row">' %}
       {% endif %}
-      
-      {% cycle '', '', '', '</div><div class="row">' %}
     {% endfor %}
   </div>
 </div>
