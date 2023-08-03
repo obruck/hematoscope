@@ -3,8 +3,8 @@
 # site properties and page defaults
 title: Hematoscope Lab
 description: The official website for the Hematoscope Lab.
-#logo: images/logo.svg
-logo: favicons/favicon.png
+logo: images/logo.png
+#logo: favicons/favicon.png
 header: images/background.jpg
 footer: images/background.jpg
 baseurl: 
