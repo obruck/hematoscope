@@ -1,6 +1,6 @@
 ---
 name: Laura Toivanen
-image: images/members/member.jpgs
+image: images/members/member.jpg
 #description: Principal investigator
 role: undergrad
 links:
