@@ -15,6 +15,12 @@ The Hematoscope Lab is a translational research group. Our researchers are engag
 include list.html
 data="members"
 component="portrait"
+%}
+<!-- This is commented out.
+{%
+include list.html
+data="members"
+component="portrait"
 filters="role: pi"
 %}
 {%
@@ -46,7 +52,7 @@ include list.html
 data="members"
 component="portrait"
 filters="role: undergrad"
-%}
+%} -->
 
 <br/><br/>
 # <i class="fas fa-user-graduate"></i>Alumni
