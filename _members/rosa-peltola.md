@@ -9,4 +9,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Viivi is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on red blood cell detection and classification from peripheral blood smears. She is closely working together with Rosa and Otso.
+Rosa is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on red blood cell detection and classification from peripheral blood smears. She is closely working together with Viivi and Otso.
