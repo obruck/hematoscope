@@ -15,7 +15,7 @@ The Hematoscope Lab is a translational research group. Our researchers are engag
 include list.html
 data="members"
 component="portrait"
-filters="role: pi, role: md, role: phd, role: programmer, role: engineer, role: undergrad"
+filters="role: pi | md | phd | programmer | engineer | undergrad"
 %}
 <!-- This is commented out.
 {%
