@@ -13,9 +13,21 @@ Big datasets can be challenging and time-consuming to understand. Our main focus
 
 {% include section.html %}
 
-## Featured
+## Data
 
-{% include list.html component="card" data="tools" filters="group: featured" %}
+{% include list.html component="card" data="tools" filters="group: data" %}
+
+{% include section.html %}
+
+## Applications
+
+{% include list.html component="card" data="tools" filters="group: app" %}
+
+{% include section.html %}
+
+## Code
+
+{% include list.html component="card" data="tools" filters="group: code" %}
 
 {% include section.html %}
 
