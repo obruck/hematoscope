@@ -9,7 +9,7 @@
   group: code
   image: images/tools/mds_image_analysis.png
   link: https://github.com/obruck/MDS_HE_IA
-  description: Image and statistical analyses
+  description: Image and statistical analyses to link images of bone marrow biopsies to understandable information
 
 - name: Bibliometric analysis of geographical and gender representation in high-impact journals
   group: code
@@ -25,31 +25,31 @@
 
 - name: Computational analysis of RCC tissues and multiomics data
   group: app
-  image: images/tools/rcc.jpg
+  image: images/tools/rcc.png
   link: http://hruh-20.it.helsinki.fi/rcc_texture_lymphocytes/
   description: Six texture subtypes and lymphocytes were detected from H&E-stained nephrectomy sections with convolutional neural networks
 
 - name: Computational analysis of RCC tissues and multiomics data
   group: code
-  image: images/tools/rcc.jpg
+  image: images/tools/rcc.png
   link: https://github.com/obruck/RCC_textures_and_lymphocytes_publication_data_analysis
-  description: Statistical analyses and visualizations
+  description: Statistical analyses and visualizations to combine image features with multi-omics data
 
 - name: Computational analysis of RCC tissues and multiomics data
   group: code
-  image: rcc_image_analysis.png
+  image: images/tools/rcc_image_analysis.png
   link: https://github.com/vahvero/RCC_textures_and_lymphocytes_publication_image_analysis
-  description: Image analysis
+  description: Image analysis to detect texture subtypes and lymphocytes
 
 - name: Computational analysis of RCC tissues and multiomics data
   group: data
-  image: images/tools/rcc.jpg
+  image: images/tools/rcc_image_analysis.png
   link: https://zenodo.org/record/7898308#.ZGXM3-xBxAc
   description: Six texture subtypes and lymphocytes were detected from H&E-stained nephrectomy sections with convolutional neural networks
 
 - name: Immune Cell Contexture in the Leukemia Bone Marrow
   group: data
-  image: images/tools/mihc.jpg
+  image: images/tools/mihc.png
   link: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD12
   description: Multiplex immunohistochemistry stainings on AML, ALL, CML and control human bone marrow samples
 
