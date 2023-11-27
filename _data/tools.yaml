@@ -23,6 +23,12 @@
   link: https://www.oscarbruck.fi/datalake
   description: Dashboard of the HUS hematology datalake
 
+- name: Implementing a Functional Precision Medicine Tumor Board for Acute Myeloid Leukemia
+  group: data
+  image: images/tools/ism.png
+  link: https://zenodo.org/records/7274740
+  description: Clinical, drug sensitivity, RNA sequencing and mutation call data
+
 - name: Computational analysis of RCC tissues and multiomics data
   group: app
   image: images/tools/rcc.png
