@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Mikko is Bachelor of Science and a student of Complex Systems at the Department of Bioinformation Technology, Aalto University. Mikko is a data-driven person and interested in harnessing the full potential of available data in order to produce meaningful products, especially in the field of healthcare. Currently, he is working on his master's thesis by developping automated texture analysis of MGG-stained whole-slide images and an automated reporting pipeline.
+Mikko is Master of Science (Major: Complex Systems, Dept of Bioinformation Technology, Aalto University). Mikko is a data-driven person and interested in harnessing the full potential of available data in order to produce meaningful products, especially in the field of healthcare. Currently, he is working on his master's thesis by developing automated texture analysis of MGG-stained whole-slide images and an automated reporting pipeline.

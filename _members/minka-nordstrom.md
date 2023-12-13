@@ -9,4 +9,4 @@ role: undergrad
 #  twitter: felixcited
 ---
 
-Minka is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on acute promyelocyte leukemia detection and classification from bone marrow smears. She is working together with Stas.
+Minka is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on acute promyelocytic leukemia detection and classification from bone marrow smears.
