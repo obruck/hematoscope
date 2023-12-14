@@ -27,7 +27,12 @@ The Hematoscope Lab is an academic team of physicians, programmers, scanner engi
 
 {% include section.html full=true %}
 
-{% include banner.html image="images/home/cells.jpeg" %}
+{%
+include figure.html
+image="images/members/Ryhmä2.jpg"
+caption="The automated slide scanner"
+%}
+<!-- {% include banner.html image="images/home/cells.jpeg" %} -->
 
 {% include section.html %}
 
