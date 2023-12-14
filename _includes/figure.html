@@ -17,14 +17,14 @@
   {%- endcapture -%}
 
   {%- capture img -%}
-    width: 50%;
+    width: 100%;
   {%- endcapture -%}
 
 {%- elsif height contains "px" -%}
 
   {%- capture link -%}
     {%- if include.image contains ".svg" -%}
-      width: 50%;
+      width: 100%;
     {%- endif -%}
   {%- endcapture -%}
   
