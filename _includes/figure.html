@@ -1,4 +1,4 @@
-{%- assign width = include.width | default: "100%" -%}
+{%- assign width = include.width | default: "50%" -%}
 
 {%- if width contains "px" -%}
   {%- assign new_width = width | remove: "px" | times: 0.5 -%}
