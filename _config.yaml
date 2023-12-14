@@ -2,6 +2,7 @@
 
 # site properties and page defaults
 title: Hematoscope Lab
+#subtitle: by the Greene Lab
 description: The official website for the Hematoscope Lab.
 logo: images/logo.png
 header: images/background.jpg

@@ -1,30 +1,45 @@
-{%- assign width = include.width | default: "50%" -%}
+{%- assign width = include.width -%}
+{%- assign height = include.height -%}
 
 {%- if width contains "px" -%}
-  {%- assign new_width = width | remove: "px" | times: 0.5 -%}
+
   {%- capture link -%}
-    width: {{ new_width }}px;
   {%- endcapture -%}
+
   {%- capture img -%}
     width: {{ width }};
   {%- endcapture -%}
+
 {%- elsif width contains "%" -%}
-  {%- assign new_width = width | remove: "%" | times: 0.5 -%}
+
   {%- capture link -%}
-    width: {{ new_width }}%;
+    width: {{ width }};
   {%- endcapture -%}
+
   {%- capture img -%}
-    width: 100%;
+    width: 50%;
   {%- endcapture -%}
+
 {%- elsif height contains "px" -%}
-  {%- assign link -%}
-  {%- assign new_height = height | remove: "px" | times: 0.5 -%}
-  {%- capture img -%}
-    max-height: {{ new_height }}px;
+
+  {%- capture link -%}
+    {%- if include.image contains ".svg" -%}
+      width: 50%;
+    {%- endif -%}
   {%- endcapture -%}
+  
+  {%- capture img -%}
+    max-height: {{ height }};
+  {%- endcapture -%}
+
 {%- else -%}
-  {%- assign link -%}
-  {%- assign img -%}
+
+  {%- capture link -%}
+  {%- endcapture -%}
+
+  {%- capture img -%}
+  {%- endcapture -%}
+
 {%- endif -%}
 
 <figure class="figure">
