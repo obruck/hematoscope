@@ -1,6 +1,6 @@
 ---
 name: Oscar Brück
-image: images/members/Oscar1.jpg
+image: images/members/Oscar1.jpg width="75%"
 #description: Principal investigator
 role: pi
 #aliases:
