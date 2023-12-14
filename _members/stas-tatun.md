@@ -1,6 +1,6 @@
 ---
 name: Stas Tatun
-image: images/members/stas.jpg
+image: images/members/Stas1.jpg
 #description: Principal investigator
 role: undergrad
 links:
@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Stas (BSc) is studying Bioinformation Technology at the Department of Neuroscience and Biomedical Engineering, Aalto University. Stas teaches also Python programming at Aalto University. Currently, he is working on normalizing images of MGG-stained samples from different slide scanners and clinical centers using generative adversarial networks (GAN).
+Stas (BSc) is studying Bioinformation Technology at the Department of Neuroscience and Biomedical Engineering, Aalto University. Stas also teaches Python programming at Aalto University. Currently, he is working on normalizing images of MGG-stained samples from different slide scanners and clinical centers using generative adversarial networks (GAN).

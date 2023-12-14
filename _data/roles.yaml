@@ -26,6 +26,10 @@ engineer:
   icon: fas fa-user-astronaut
   text: Engineer
 
+regulation:
+  icon: fas fa-user-gear
+  text: Regulation Expert
+
 mascot:
   icon: fas fa-dog
   text: Mascot

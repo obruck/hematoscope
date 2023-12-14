@@ -1,6 +1,6 @@
 ---
 name: Anni Dohlen
-image: images/members/anni.jpg
+image: images/members/Anni1.jpg
 #description: Laboratory Medicine
 role: engineer
 #links:

@@ -1,6 +1,6 @@
 ---
 name: Johanna Heikkinen
-image: images/members/johanna.jpg
+image: images/members/Johanna1.jpg
 #description: Principal investigator
 role: engineer
 #aliases:
@@ -12,4 +12,4 @@ role: engineer
   #twitter: oscarbruck
 ---
 
-Johanna is a digital slide scanner engineer working in the department of hematology, HUSLAB. Johanna is responsible that slides are converted to high-resolution images. Johanna is very cheerful and innovative! Thanks to her we have been able to slowly increase our scanning capacity from 400 slides to an extraordinary pace of >700 slides/week!
+Johanna works in the department of hematology, HUSLAB. Johanna is responsible for scanning slides to high-resolution images. Johanna is very cheerful and innovative! Thanks to her we have been able to slowly increase our scanning capacity from 400 slides to an extraordinary pace of >700 slides/week!

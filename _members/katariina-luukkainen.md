@@ -1,6 +1,6 @@
 ---
 name: Katariina Luukkainen
-image: images/members/member.jpg
+image: images/members/Kata2.jpg
 #description: Principal investigator
 role: undergrad
 links:

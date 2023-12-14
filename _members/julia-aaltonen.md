@@ -1,6 +1,6 @@
 ---
 name: Julia Aaltonen
-image: images/members/member.jpg
+image: images/members/JuliaA2.jpg
 #description: Laboratory Medicine
 role: engineer
 #links:

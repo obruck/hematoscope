@@ -1,6 +1,6 @@
 ---
 name: Sanna Siitonen
-image: images/members/sanna.jpg
+image: images/members/Sanna1.jpg
 #description: Laboratory Medicine
 role: md
 #links:

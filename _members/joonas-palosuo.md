@@ -1,6 +1,6 @@
 ---
 name: Joonas Palosuo
-image: images/members/member.jpg
+image: images/members/Joonas1.jpg
 #description: Principal investigator
 role: undergrad
 links:
@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Joonas (BSc) is studying Human-Computer Interaction at the Department of Communication and Information Sciences, Aalto University. Joonas is the lead designer and programmer of the Hematoscope application. Currently, he is working on studying the user experience and making the software as accessible and intuitive to use as possible.
+Joonas has a M.Sc. (Tech.) from Human-Computer Interaction at the Department of Computer, Communication and Information Sciences in Aalto University. Joonas is the lead architect, developer and designer of the Hematoscope application. With interest in modern web applications with great user experience, he thrives on making the software as performant, robust, intuitive and accessible as possible.

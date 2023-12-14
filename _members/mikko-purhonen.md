@@ -1,6 +1,6 @@
 ---
 name: Mikko Purhonen
-image: images/members/mikkopurhonen.jpg
+image: images/members/Mikko2.jpg
 #description: Principal investigator
 role: programmer
 links:
@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Mikko is Master of Science (Major: Complex Systems, Dept of Bioinformation Technology, Aalto University). Mikko is a data-driven person and interested in harnessing the full potential of available data in order to produce meaningful products, especially in the field of healthcare. Currently, he is working on his master's thesis by developing automated texture analysis of MGG-stained whole-slide images and an automated reporting pipeline.
+Mikko is an M.Sc. (Tech.) graduate in Life Science Technologies from Aalto University. With a data-driven mindset, he is passionate about leveraging the full potential of data to create impactful solutions in healthcare. In his master’s thesis, Mikko developed image analysis algorithms for analyzing the bone marrow slides. After graduation, he has continued the work on the algorithm development of the Hematoscope application. Currently, Mikko is utilizing the Hematoscope image analysis algorithms to investigate the bone marrow cytopathology in chronic myeloid leukemia patients. In addition, he works on the medical device regulation to get the Hematoscope application in use to support the work of healthcare professionals. Beyond the tech world, Mikko is a devoted triathlete, finding joy in the diverse challenges of both work and the triathlon circus—a sport where swimming, biking, and running are the only algorithms in play!

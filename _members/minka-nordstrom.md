@@ -1,6 +1,6 @@
 ---
 name: Minka Nordström
-image: images/members/member.jpg
+image: images/members/Minka1.jpg
 #description: Laboratory Medicine
 role: undergrad
 #links:
@@ -9,4 +9,4 @@ role: undergrad
 #  twitter: felixcited
 ---
 
-Minka is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on acute promyelocytic leukemia detection and classification from bone marrow smears.
+Minka is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on acute promyelocytic leukemia detection and classification from bone marrow smears. 
