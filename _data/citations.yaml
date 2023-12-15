@@ -1,5 +1,384 @@
-# GENERATED AUTOMATICALLY, DO NOT EDIT
+# DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1038/s41416-023-02329-4
+  title: Computational textural mapping harmonises sampling variation and reveals
+    multidimensional histopathological fingerprints
+  authors:
+  - Otso Brummer
+  - "Petri P\xF6l\xF6nen"
+  - Satu Mustjoki
+  - "Oscar Br\xFCck"
+  publisher: British Journal of Cancer
+  date: '2023-06-30'
+  link: https://doi.org/gs82qs
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1172/JCI164809
+  title: "Single-cell characterization of anti\u2013LAG-3 and anti\u2013PD-1 combination\
+    \ treatment in patients with melanoma"
+  authors:
+  - Jani Huuhtanen
+  - Henna Kasanen
+  - Katriina Peltola
+  - "Tapio L\xF6nnberg"
+  - Virpi Glumoff
+  - "Oscar Br\xFCck"
+  - Olli Dufva
+  - Karita Peltonen
+  - Johanna Vikkula
+  - Emmi Jokinen
+  - Mette Ilander
+  - Moon Hee Lee
+  - "Siru M\xE4kel\xE4"
+  - Marta Nyakas
+  - Bin Li
+  - Micaela Hernberg
+  - Petri Bono
+  - "Harri L\xE4hdesm\xE4ki"
+  - Anna Kreutzman
+  - Satu Mustjoki
+  publisher: Journal of Clinical Investigation
+  date: '2023-03-15'
+  link: https://doi.org/grvqmd
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/jnci/djac178
+  title: 'Fibroblast subsets in non-small cell lung cancer: Associations with survival,
+    mutations, and immune features'
+  authors:
+  - Teijo Pellinen
+  - Lassi Paavolainen
+  - "Alfonso Mart\xEDn-Bernab\xE9"
+  - Renata Papatella Araujo
+  - Carina Strell
+  - Artur Mezheyeuski
+  - Max Backman
+  - Linnea La Fleur
+  - "Oscar Br\xFCck"
+  - "Jonas Sj\xF6lund"
+  - Erik Holmberg
+  - "Katja V\xE4lim\xE4ki"
+  - "Hans Brunnstr\xF6m"
+  - Johan Botling
+  - Pablo Moreno-Ruiz
+  - Olli Kallioniemi
+  - Patrick Micke
+  - "Arne \xD6stman"
+  publisher: 'JNCI: Journal of the National Cancer Institute'
+  date: '2022-09-09'
+  link: https://doi.org/gqxb4d
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.21.22283801
+  title: The Gender Gap in Leading Medical Journals - a Computational Audit
+  authors:
+  - "Oscar Br\xFCck"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-21'
+  link: https://doi.org/gs82qt
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.12.12.22283368
+  title: The Geographical Gap in Leading Medical Journals - a Computational Audit
+  authors:
+  - "Oscar Br\xFCck"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-12-12'
+  link: https://doi.org/gs82qv
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/2022.08.15.503955
+  title: Integrative Analysis of Histological Textures and Lymphocyte Infiltration
+    in Renal Cell Carcinoma using Deep Learning
+  authors:
+  - Otso Brummer
+  - "Petri P\xF6l\xF6nen"
+  - Satu Mustjoki
+  - "Oscar Br\xFCck"
+  publisher: Cold Spring Harbor Laboratory
+  date: '2022-08-15'
+  link: https://doi.org/gs82qw
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41408-022-00667-9
+  title: Epigenetic modifier gene mutations in chronic myeloid leukemia (CML) at diagnosis
+    are associated with risk of relapse upon treatment discontinuation
+  authors:
+  - Shady Adnan Awad
+  - "Oscar Br\xFCck"
+  - Naranie Shanmuganathan
+  - Timo Jarvinen
+  - "Hanna L\xE4hteenm\xE4ki"
+  - Jay Klievink
+  - Hazem Ibrahim
+  - "Soili Kyt\xF6l\xE4"
+  - Perttu Koskenvesa
+  - Timothy P. Hughes
+  - Susan Branford
+  - Matti Kankainen
+  - Satu Mustjoki
+  publisher: Blood Cancer Journal
+  date: '2022-04-20'
+  link: https://doi.org/gs82qx
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41379-021-00930-7
+  title: Prognostic implications of tumor-infiltrating T cells in early-stage endometrial
+    cancer
+  authors:
+  - Marta Mendiola
+  - Teijo Pellinen
+  - Jorge L. Ramon-Patino
+  - Alberto Berjon
+  - Oscar Bruck
+  - Victoria Heredia-Soto
+  - Riku Turkki
+  - Javier Escudero
+  - Annabrita Hemmes
+  - Luis E. Garcia de la Calle
+  - Roberto Crespo
+  - Alejandro Gallego
+  - Alicia Hernandez
+  - Jaime Feliu
+  - Andres Redondo
+  publisher: Modern Pathology
+  date: '2022-02-01'
+  link: https://doi.org/gs82qz
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41375-022-01662-6
+  title: An immunity and pyroptosis gene-pair signature predicts overall survival
+    in acute myeloid leukemia
+  authors:
+  - Weikaixin Kong
+  - Liye He
+  - Jie Zhu
+  - "Oscar Br\xFCck"
+  - Kimmo Porkka
+  - Caroline A. Heckman
+  - Sujie Zhu
+  - Tero Aittokallio
+  publisher: Leukemia
+  date: '2022-08-09'
+  link: https://doi.org/gs82q2
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-21-3140
+  title: Clinical Impact of Immune Cells and Their Spatial Interactions in Diffuse
+    Large B-Cell Lymphoma Microenvironment
+  authors:
+  - Matias Autio
+  - Suvi-Katri Leivonen
+  - "Oscar Br\xFCck"
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Teijo Pellinen
+  - "Sirpa Lepp\xE4"
+  publisher: Clinical Cancer Research
+  date: '2021-12-13'
+  link: https://doi.org/gntwt5
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/dlbcl_imm.jpeg
+  tags:
+  - b-cell lymphoma
+  - immunology
+  - spatial image analysis
+- id: doi:10.3324/haematol.2021.280578
+  title: Copy number alterations define outcome in Philadelphia chromosome-positive
+    acute lymphoblastic leukemia
+  authors:
+  - Helena Hohtari
+  - Niels Pallisgaard
+  - Matti Kankainen
+  - Pekka Ellonen
+  - "Oscar Br\xFCck"
+  - Timo Siitonen
+  - "Marjaana S\xE4ily"
+  - Marjatta Sinisalo
+  - "Marja Py\xF6r\xE4l\xE4"
+  - "Maija It\xE4l\xE4-Remes"
+  - Perttu Koskenvesa
+  - Erkki Elonen
+  - Satu Mustjoki
+  - Kimmo Porkka
+  publisher: Haematologica
+  date: '2022-04-28'
+  link: https://doi.org/gs82q3
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/1878-0261.13159
+  title: "E\u2010cadherin is a robust prognostic biomarker in colorectal cancer and\
+    \ low expression is associated with sensitivity to inhibitors of topoisomerase,\
+    \ aurora, and HSP90 in preclinical models"
+  authors:
+  - Jarle Bruun
+  - Peter W. Eide
+  - Christian Holst Bergsland
+  - Oscar Bruck
+  - Aud Svindland
+  - Mariliina Arjama
+  - "Katja V\xE4lim\xE4ki"
+  - "Merete Bj\xF8rnslett"
+  - Marianne G. Guren
+  - Olli Kallioniemi
+  - Arild Nesbakken
+  - Ragnhild A. Lothe
+  - Teijo Pellinen
+  publisher: Molecular Oncology
+  date: '2021-12-26'
+  link: https://doi.org/gn6s5b
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/2159-8290.CD-21-0410
+  title: Implementing a Functional Precision Medicine Tumor Board for Acute Myeloid
+    Leukemia
+  authors:
+  - Disha Malani
+  - Ashwini Kumar
+  - "Oscar Br\xFCck"
+  - Mika Kontro
+  - Bhagwan Yadav
+  - "Monica Helles\xF8y"
+  - "Heikki Kuusanm\xE4ki"
+  - Olli Dufva
+  - Matti Kankainen
+  - Samuli Eldfors
+  - Swapnil Potdar
+  - Jani Saarela
+  - Laura Turunen
+  - Alun Parsons
+  - "Imre V\xE4strik"
+  - Katja Kivinen
+  - Janna Saarela
+  - "Riikka R\xE4ty"
+  - Minna Lehto
+  - Maija Wolf
+  - Bjorn Tore Gjertsen
+  - Satu Mustjoki
+  - Tero Aittokallio
+  - Krister Wennerberg
+  - Caroline A. Heckman
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  publisher: Cancer Discovery
+  date: '2021-11-17'
+  link: https://doi.org/gnkbvc
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/ism2.jpeg
+  tags:
+  - acute myeloid leukemia
+  - multiomics
+  - drug sentivity screening
+- id: doi:10.1080/2162402X.2021.1993042
+  title: T and NK cell abundance defines two distinct subgroups of renal cell carcinoma
+  authors:
+  - Moon Hee Lee
+  - "Petrus J\xE4rvinen"
+  - "Harry N\xEDsen"
+  - "Oscar Br\xFCck"
+  - Mette Ilander
+  - Ilona Uski
+  - Jason Theodoropoulos
+  - Matti Kankainen
+  - Tuomas Mirtti
+  - Satu Mustjoki
+  - Anna Kreutzman
+  publisher: OncoImmunology
+  date: '2022-01-04'
+  link: https://doi.org/gs82q4
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41379-021-00864-0
+  title: Spatial immunoprofiling of the intratumoral and peritumoral tissue of renal
+    cell carcinoma patients
+  authors:
+  - "Oscar Br\xFCck"
+  - Moon Hee Lee
+  - Riku Turkki
+  - Ilona Uski
+  - "Patrick Penttil\xE4"
+  - Lassi Paavolainen
+  - Panu Kovanen
+  - "Petrus J\xE4rvinen"
+  - Petri Bono
+  - Teijo Pellinen
+  - Satu Mustjoki
+  - Anna Kreutzman
+  publisher: Modern Pathology
+  date: '2021-12-01'
+  link: https://doi.org/gm4hd3
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/rcc.jpeg
+  tags:
+  - renal cell carcinoma
+  - spatial image analysis
+  - immunology
+- id: doi:10.1038/s41375-021-01231-3
+  title: Somatic mutations in lymphocytes in patients with immune-mediated aplastic
+    anemia
+  authors:
+  - Sofie Lundgren
+  - "Mikko A. I. Ker\xE4nen"
+  - Matti Kankainen
+  - Jani Huuhtanen
+  - Gunilla Walldin
+  - Cassandra M. Kerr
+  - Michael Clemente
+  - Freja Ebeling
+  - Hanna Rajala
+  - "Oscar Br\xFCck"
+  - "Harri L\xE4hdesm\xE4ki"
+  - Sari Hannula
+  - Tiina Hannunen
+  - Pekka Ellonen
+  - Neal S. Young
+  - Seishi Ogawa
+  - Jaroslaw P. Maciejewski
+  - "Eva Hellstr\xF6m-Lindberg"
+  - Satu Mustjoki
+  publisher: Leukemia
+  date: '2021-03-30'
+  link: https://doi.org/gjsprk
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2019.243626
+  title: Immune cell constitution in the tumor microenvironment predicts the outcome
+    in diffuse large B-cell lymphoma
+  authors:
+  - ' Matias Autio'
+  - ' Suvi-Katri Leivonen'
+  - " Oscar Br\xFCck"
+  - ' Satu Mustjoki'
+  - " Judit M\xE9sz\xE1ros J\xF8rgensen"
+  - ' Marja-Liisa Karjalainen-Lindsberg'
+  - ' Klaus Beiske'
+  - ' Harald Holte'
+  - ' Teijo Pellinen'
+  - " Sirpa Lepp\xE4"
+  publisher: Haematologica
+  date: '2020-02-20'
+  link: https://doi.org/gmbt89
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1158/2643-3230.BCD-20-0162
   title: Machine Learning of Bone Marrow Histopathology Identifies Genetic and Clinical
     Determinants in Patients with MDS
@@ -16,13 +395,160 @@
   - Kimmo V. Porkka
   - Satu M. Mustjoki
   publisher: Blood Cancer Discovery
-  date: '2021-05-01'
+  date: '2021-03-22'
   link: https://doi.org/gntvj2
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
+  type: paper
   image: images/publications/mds_bcd.jpeg
   tags:
   - computer vision
   - myelodysplastic syndrome
   - genetics
+- id: doi:10.1101/2020.05.03.073858
+  title: Histopathological Landscape of Molecular Genetics and Clinical Determinants
+    in MDS Patients
+  authors:
+  - "Oscar Br\xFCck"
+  - "Susanna Lallukka-Br\xFCck"
+  - Helena Hohtari
+  - Aleksandr Ianevski
+  - Freja Ebeling
+  - Panu Kovanen
+  - "Soili Kyt\xF6l\xE4"
+  - Tero Aittokallio
+  - Pedro Marques Ramos
+  - Kimmo Porkka
+  - Satu Mustjoki
+  publisher: Cold Spring Harbor Laboratory
+  date: '2020-05-03'
+  link: https://doi.org/gs82q5
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers12040877
+  title: Prognostic Impact of Tumor-Associated Macrophages on Survival Is Checkpoint
+    Dependent in Classical Hodgkin Lymphoma
+  authors:
+  - Kristiina Karihtala
+  - Suvi-Katri Leivonen
+  - "Oscar Br\xFCck"
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Satu Mustjoki
+  - Teijo Pellinen
+  - "Sirpa Lepp\xE4"
+  publisher: Cancers
+  date: '2020-04-04'
+  link: https://doi.org/gs82q6
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/cancers12030702
+  title: "STAT3 Mutation Is Associated with STAT3 Activation in CD30+ ALK\u2212 ALCL"
+  authors:
+  - Emma I. Andersson
+  - "Oscar Br\xFCck"
+  - Till Braun
+  - Susanna Mannisto
+  - Leena Saikko
+  - "Sonja Lagstr\xF6m"
+  - Pekka Ellonen
+  - "Sirpa Lepp\xE4"
+  - Marco Herling
+  - Panu E. Kovanen
+  - Satu Mustjoki
+  publisher: Cancers
+  date: '2020-03-16'
+  link: https://doi.org/gkr93v
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/bloodadvances.2019000792
+  title: Immune profiles in acute myeloid leukemia bone marrow associate with patient
+    age, T-cell receptor clonality, and survival
+  authors:
+  - "Oscar Br\xFCck"
+  - Olli Dufva
+  - Helena Hohtari
+  - Sami Blom
+  - Riku Turkki
+  - Mette Ilander
+  - Panu Kovanen
+  - Celine Pallaud
+  - Pedro Marques Ramos
+  - "Hanna L\xE4hteenm\xE4ki"
+  - "Katja V\xE4lim\xE4ki"
+  - Mohamed El Missiry
+  - Antonio Ribeiro
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  - Teijo Pellinen
+  - Satu Mustjoki
+  publisher: Blood Advances
+  date: '2020-01-22'
+  link: https://doi.org/gh9b8t
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
+  image: images/publications/aml_imm.jpeg
+  tags:
+  - acute myeloid leukemia
+  - immunology
+  - image analysis
+- id: doi:10.1007/s00262-020-02497-9
+  title: Age-associated changes in the immune system may influence the response to
+    anti-PD1 therapy in metastatic melanoma patients
+  authors:
+  - Henna Kasanen
+  - Micaela Hernberg
+  - "Siru M\xE4kel\xE4"
+  - "Oscar Br\xFCck"
+  - Susanna Juteau
+  - "Laura Kohtam\xE4ki"
+  - Mette Ilander
+  - Satu Mustjoki
+  - Anna Kreutzman
+  publisher: Cancer Immunology, Immunotherapy
+  date: '2020-02-08'
+  link: https://doi.org/gq25kr
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ccell.2020.08.019
+  title: Immunogenomic Landscape of Hematological Malignancies
+  authors:
+  - Olli Dufva
+  - "Petri P\xF6l\xF6nen"
+  - "Oscar Br\xFCck"
+  - "Mikko A.I. Ker\xE4nen"
+  - Jay Klievink
+  - Juha Mehtonen
+  - Jani Huuhtanen
+  - Ashwini Kumar
+  - Disha Malani
+  - Sanna Siitonen
+  - Matti Kankainen
+  - Bishwa Ghimire
+  - Jenni Lahtela
+  - Pirkko Mattila
+  - "Markus V\xE4h\xE4-Koskela"
+  - Krister Wennerberg
+  - Kirsi Granberg
+  - Suvi-Katri Leivonen
+  - Leo Meriranta
+  - Caroline Heckman
+  - "Sirpa Lepp\xE4"
+  - Matti Nykter
+  - Olli Lohi
+  - "Merja Hein\xE4niemi"
+  - Satu Mustjoki
+  publisher: Cancer Cell
+  date: '2020-09-01'
+  link: https://doi.org/gh23fx
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1016/j.ccell.2020.06.002
   title: Immunogenomic Landscape of Hematological Malignancies
   authors:
@@ -54,104 +580,112 @@
   publisher: Cancer Cell
   date: '2020-09-01'
   link: https://doi.org/gg4nbd
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
   image: images/publications/cancercell.jpeg
   tags:
   - hematology
   - big data
   - genetics
   - immunology
-- id: doi:10.1038/s41379-021-00864-0
-  title: Spatial immunoprofiling of the intratumoral and peritumoral tissue of renal
-    cell carcinoma patients
+- id: doi:10.1016/j.joca.2019.10.011
+  title: Lumican is upregulated in osteoarthritis and contributes to TLR4-induced
+    pro-inflammatory activation of cartilage degradation and macrophage polarization
   authors:
-  - "Oscar Br\xFCck"
-  - Moon Hee Lee
-  - Riku Turkki
-  - Ilona Uski
-  - "Patrick Penttil\xE4"
-  - Lassi Paavolainen
-  - Panu Kovanen
-  - "Petrus J\xE4rvinen"
-  - Petri Bono
-  - Teijo Pellinen
-  - Satu Mustjoki
-  - Anna Kreutzman
-  publisher: Modern Pathology
-  date: '2021-07-02'
-  link: https://doi.org/gm4hd3
-  image: images/publications/rcc.jpeg
-  tags:
-  - renal cell carcinoma
-  - spatial image analysis
-  - immunology
-- id: doi:10.1158/2159-8290.CD-21-0410
-  title: Implementing a functional precision medicine tumor board for acute myeloid
-    leukemia
+  - G. Barreto
+  - B. Senturk
+  - L. Colombo
+  - "O. Br\xFCck"
+  - P. Neidenbach
+  - G. Salzmann
+  - M. Zenobi-Wong
+  - M. Rottmar
+  publisher: Osteoarthritis and Cartilage
+  date: '2020-01-01'
+  link: https://doi.org/gs82q7
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2018.214882
+  title: Phenotype-based drug screening reveals association between venetoclax response
+    and differentiation stage in acute myeloid leukemia
   authors:
-  - Disha Malani
-  - Ashwini Kumar
-  - Oscar Bruck
+  - "Heikki Kuusanm\xE4ki"
+  - "Aino-Maija Lepp\xE4"
+  - "Petri P\xF6l\xF6nen"
   - Mika Kontro
+  - Olli Dufva
+  - Debashish Deb
   - Bhagwan Yadav
-  - Monica Hellesoy
-  - Heikki Kuusanmaki
-  - Olli Dufva
-  - Matti Kankainen
-  - Samuli Eldfors
-  - Swapnil Potdar
-  - Jani Saarela
-  - Laura Turunen
-  - Alun Parsons
-  - Imre Vastrik
-  - Katja Kivinen
-  - Janna Saarela
-  - Riikka Raty
-  - Minna Lehto
-  - Maija Wolf
-  - Bjorn Tore Gjertsen
-  - Satu Mustjoki
-  - Tero Aittokallio
-  - Krister Wennerberg
-  - Caroline A Heckman
-  - Olli Kallioniemi
-  - Kimmo Porkka
-  publisher: Cancer Discovery
-  date: '2021-11-17'
-  link: https://doi.org/gnkbvc
-  image: images/publications/ism2.jpeg
-  tags:
-  - acute myeloid leukemia
-  - multiomics
-  - drug sentivity screening
-- id: doi:10.1182/bloodadvances.2019000792
-  title: Immune profiles in acute myeloid leukemia bone marrow associate with patient
-    age, T-cell receptor clonality, and survival
-  authors:
   - "Oscar Br\xFCck"
-  - Olli Dufva
-  - Helena Hohtari
-  - Sami Blom
-  - Riku Turkki
-  - Mette Ilander
-  - Panu Kovanen
-  - Celine Pallaud
-  - Pedro Marques Ramos
-  - "Hanna L\xE4hteenm\xE4ki"
-  - "Katja V\xE4lim\xE4ki"
-  - Mohamed El Missiry
-  - Antonio Ribeiro
-  - Olli Kallioniemi
+  - Ashwini Kumar
+  - Hele Everaus
+  - "Bj\xF8rn T. Gjertsen"
+  - "Merja Hein\xE4niemi"
   - Kimmo Porkka
-  - Teijo Pellinen
   - Satu Mustjoki
-  publisher: Blood Advances
-  date: '2020-01-28'
-  link: https://doi.org/gh9b8t
-  image: images/publications/aml_imm.jpeg
-  tags:
-  - acute myeloid leukemia
-  - immunology
-  - image analysis
+  - Caroline A. Heckman
+  publisher: Haematologica
+  date: '2019-07-11'
+  link: https://doi.org/gnh63w
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41467-020-16115-w
+  title: Somatic mTOR mutation in clonally expanded T lymphocytes associated with
+    chronic graft versus host disease
+  authors:
+  - Daehong Kim
+  - Giljun Park
+  - Jani Huuhtanen
+  - Sofie Lundgren
+  - Rajiv K. Khajuria
+  - Ana M. Hurtado
+  - "Cecilia Mu\xF1oz-Calleja"
+  - "Laura Carde\xF1oso"
+  - "Valle G\xF3mez-Garc\xEDa de Soria"
+  - Tzu Hua Chen-Liang
+  - Samuli Eldfors
+  - Pekka Ellonen
+  - Sari Hannula
+  - Matti Kankainen
+  - Oscar Bruck
+  - Anna Kreutzman
+  - Urpu Salmenniemi
+  - "Tapio L\xF6nnberg"
+  - "Andr\xE9s Jerez"
+  - "Maija It\xE4l\xE4-Remes"
+  - "Mikko Myllym\xE4ki"
+  - "Mikko A. I. Ker\xE4nen"
+  - Satu Mustjoki
+  publisher: Nature Communications
+  date: '2020-05-07'
+  link: https://doi.org/gs82q8
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-019-40575-w
+  title: Characterization of polydactyly chondrocytes and their use in cartilage engineering
+  authors:
+  - Emma Cavalli
+  - Clara Levinson
+  - Matthias Hertl
+  - Nicolas Broguiere
+  - "Oscar Br\xFCck"
+  - Satu Mustjoki
+  - Anja Gerstenberg
+  - Daniel Weber
+  - Gian Salzmann
+  - Matthias Steinwachs
+  - "Gon\xE7alo Barreto"
+  - Marcy Zenobi-Wong
+  publisher: Scientific Reports
+  date: '2019-03-12'
+  link: https://doi.org/gs82q9
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41375-018-0360-1
   title: Immune cell constitution in bone marrow microenvironment predicts outcome
     in adult ALL
@@ -169,11 +703,62 @@
   publisher: Leukemia
   date: '2019-01-11'
   link: https://doi.org/gh6fn8
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
   image: images/publications/ball_imm.jpeg
   tags:
   - acute lymphoid leukemia
   - immunology
   - image analysis
+- id: doi:10.3324/haematol.2018.200105
+  title: T-cell inflamed tumor microenvironment predicts favorable prognosis in primary
+    testicular lymphoma
+  authors:
+  - Suvi-Katri Leivonen
+  - Marjukka Pollari
+  - "Oscar Br\xFCck"
+  - Teijo Pellinen
+  - Matias Autio
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Susanna Mannisto
+  - Pirkko-Liisa Kellokumpu-Lehtinen
+  - Olli Kallioniemi
+  - Satu Mustjoki
+  - "Sirpa Lepp\xE4"
+  publisher: Haematologica
+  date: '2018-09-20'
+  link: https://doi.org/gh8wqk
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2018-99-116628
+  title: Quantitative Multiplex Immunohistochemistry Identifies Immunosuppression
+    in the AML Bone Marrow and NK-Cells As Prognostic Biomarker in Intermediate-Risk
+    Patients
+  authors:
+  - "Oscar Br\xFCck"
+  - Olli Dufva
+  - Sami Blom
+  - Riku Turkki
+  - Mette Ilander
+  - Sanna M. Siitonen
+  - Panu Kovanen
+  - Celine Pallaud
+  - Pedro Marques Ramos
+  - "Hanna L\xE4hteenm\xE4ki"
+  - "Katja V\xE4lim\xE4ki"
+  - Antonio Ribeiro
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  - Teijo Pellinen
+  - Satu Mustjoki
+  publisher: Blood
+  date: '2018-11-29'
+  link: https://doi.org/gs82rb
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1038/s41375-018-0175-0
   title: Immune cell contexture in the bone marrow tumor microenvironment impacts
     therapy response in CML
@@ -194,26 +779,148 @@
   publisher: Leukemia
   date: '2018-06-20'
   link: https://doi.org/gdv2ts
+  orcid: 0000-0002-7842-9419
+  plugin: sources.py
+  file: sources.yaml
   image: images/publications/cml_imm.jpeg
   tags:
   - chronic myeloid leukemia
   - immunology
   - image analysis
-- id: doi:10.1158/1078-0432.CCR-21-3140
-  title: Clinical Impact of Immune Cells and Their Spatial Interactions in Diffuse
-    Large B-Cell Lymphoma Microenvironment
+- id: doi:10.3324/haematol.2018.197194
+  title: PD-L1<sup>+</sup> tumor-associated macrophages and PD-1<sup>+</sup> tumor-infiltrating
+    lymphocytes predict survival in primary testicular lymphoma
   authors:
-  - Matias Autio
-  - Suvi-Katri Leivonen
+  - Marjukka Pollari
   - "Oscar Br\xFCck"
-  - Marja-Liisa Karjalainen-Lindsberg
   - Teijo Pellinen
+  - "Pauli V\xE4h\xE4murto"
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Susanna Mannisto
+  - Olli Kallioniemi
+  - Pirkko-Liisa Kellokumpu-Lehtinen
+  - Satu Mustjoki
+  - Suvi-Katri Leivonen
   - "Sirpa Lepp\xE4"
+  publisher: Haematologica
+  date: '2018-07-19'
+  link: https://doi.org/gfrr78
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3324/haematol.2017.175729
+  title: "Somatic\n            <i>STAT3</i>\n            mutations in Felty syndrome:\
+    \ an implication for a common pathogenesis with large granular lymphocyte leukemia"
+  authors:
+  - Paula Savola
+  - "Oscar Br\xFCck"
+  - Thomas Olson
+  - Tiina Kelkka
+  - Markku J. Kauppi
+  - Panu E. Kovanen
+  - "Soili Kyt\xF6l\xE4"
+  - Tuulikki Sokka-Isler
+  - Thomas P. Loughran
+  - Marjatta Leirisalo-Repo
+  - Satu Mustjoki
+  publisher: Haematologica
+  date: '2017-12-07'
+  link: https://doi.org/gcxj5d
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/1078-0432.CCR-16-0667
+  title: Dasatinib Reversibly Disrupts Endothelial Vascular Integrity by Increasing
+    Non-Muscle Myosin II Contractility in a ROCK-Dependent Manner
+  authors:
+  - Anna Kreutzman
+  - "Beatriz Colom-Fern\xE1ndez"
+  - "Ana Marcos Jim\xE9nez"
+  - Mette Ilander
+  - Carlos Cuesta-Mateos
+  - "Yaiza P\xE9rez-Garc\xEDa"
+  - "Cristina Delgado Ar\xE9valo"
+  - "Oscar Br\xFCck"
+  - Henna Hakanen
+  - Jani Saarela
+  - "Alvaro Ortega-Carri\xF3n"
+  - Ana de Rosendo
+  - "Alba Juanes-Garc\xEDa"
+  - Juan Luis Steegmann
+  - Satu Mustjoki
+  - Miguel Vicente-Manzanares
+  - "Cecilia Mu\xF1oz-Calleja"
   publisher: Clinical Cancer Research
-  date: '2021-12-14'
-  link: https://doi.org/gntwt5
-  image: images/publications/dlbcl_imm.jpeg
-  tags:
-  - b-cell lymphoma
-  - immunology
-  - spatial image analysis
+  date: '2017-10-31'
+  link: https://doi.org/gchwx2
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/leu.2016.360
+  title: Increased proportion of mature NK cells is associated with successful imatinib
+    discontinuation in chronic myeloid leukemia
+  authors:
+  - M Ilander
+  - "U Olsson-Str\xF6mberg"
+  - H Schlums
+  - J Guilhot
+  - "O Br\xFCck"
+  - "H L\xE4hteenm\xE4ki"
+  - T Kasanen
+  - P Koskenvesa
+  - "S S\xF6derlund"
+  - "M H\xF6glund"
+  - "B Markev\xE4rn"
+  - "A Sj\xE4lander"
+  - K Lotfi
+  - A Dreimane
+  - "A L\xFCbking"
+  - E Holm
+  - "M Bj\xF6reman"
+  - S Lehmann
+  - L Stenke
+  - L Ohm
+  - T Gedde-Dahl
+  - W Majeed
+  - H Ehrencrona
+  - S Koskela
+  - S Saussele
+  - F-X Mahon
+  - K Porkka
+  - H Hjorth-Hansen
+  - Y T Bryceson
+  - J Richter
+  - S Mustjoki
+  publisher: Leukemia
+  date: '2016-11-28'
+  link: https://doi.org/f3tspn
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12885-016-2452-5
+  title: Systematic drug screening reveals specific vulnerabilities and co-resistance
+    patterns in endocrine-resistant breast cancer
+  authors:
+  - Sara Kangaspeska
+  - Susanne Hultsch
+  - Alok Jaiswal
+  - Henrik Edgren
+  - John-Patrick Mpindi
+  - Samuli Eldfors
+  - "Oscar Br\xFCck"
+  - Tero Aittokallio
+  - Olli Kallioniemi
+  publisher: BMC Cancer
+  date: '2016-07-04'
+  link: https://doi.org/f3vgmv
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml
+- id: eid:2-s2.0-85040108701
+  title: T cells and cancer - why do the killers become exhausted?
+  publisher: Duodecim; laaketieteellinen aikakauskirja
+  date: '2023-09-26'
+  link: http://www.scopus.com/inward/record.url?eid=2-s2.0-85040108701&partnerID=MN8TOARS
+  orcid: 0000-0002-7842-9419
+  plugin: orcid.py
+  file: orcid.yaml

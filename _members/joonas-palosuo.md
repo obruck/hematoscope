@@ -2,7 +2,7 @@
 name: Joonas Palosuo
 image: images/members/Joonas1.jpg
 #description: Principal investigator
-role: undergrad
+role: programmer
 links:
   #linkedin: otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
