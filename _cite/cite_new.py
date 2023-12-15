@@ -121,6 +121,34 @@ log()
 
 log("Generating citations")
 
+log("Removing entries with 'source-work-id' in the id from sources")
+
+# Filter out entries where 'source-work-id' is in the id
+sources = [source for source in sources if "source-work-id" not in get_safe(source, "id", "")]
+
+log(f"{len(sources)} source(s) remaining after filtering")
+
+
+
+log("Removing entries with 'source-work-id' or specific publisher strings from sources")
+
+# List of publisher strings to exclude
+excluded_publisher_strings = ["Annals of Oncology", "Harbor"]
+
+# Function to check if a publisher should be excluded
+def should_exclude_publisher(publisher):
+    return any(excluded_string.lower() in publisher.lower() for excluded_string in excluded_publisher_strings)
+
+# Filter out entries with 'source-work-id' in the id
+sources = [source for source in sources if "source-work-id" not in get_safe(source, "id", "")]
+
+# Filter out entries with specific publisher strings
+sources = [source for source in sources if not should_exclude_publisher(get_safe(source, "publisher", ""))]
+
+log(f"{len(sources)} source(s) remaining after filtering")
+
+
+
 # list of new citations
 citations = []
 
@@ -164,6 +192,8 @@ for index, source in enumerate(sources):
 
     # add new citation to list
     citations.append(citation)
+
+
 
 
 log()
