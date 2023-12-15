@@ -1,3 +1,5 @@
+### basic settings
+
 # site properties and page defaults
 title: Hematoscope Lab
 #subtitle: by the Greene Lab
@@ -5,19 +7,28 @@ description: The official website for the Hematoscope Lab.
 logo: images/logo.png
 header: images/background.jpg
 footer: images/background.jpg
+baseurl: 
 
 # site social media and other links
 links:
   email: oscar.bruck@hus.fi
-  orcid: 0000-0002-7842-9419
   google-scholar: https://scholar.google.com/citations?view_op=list_works&hl=en&user=RDtkUAgAAAAJ
   github: obruck
   twitter: oscarbruck
+  #instagram: YourLabHandle
   #youtube: YourLabChannel
 
-### jekyll settings
+# automatic citations
+auto-cite:
+  plugins:
+    - name: sources
+      input:
+        - ../_data/sources.yaml
+  output: ../_data/citations.yaml
 
-# front matter defaults
+### advanced settings
+
+# default front matter parameters for markdown files
 defaults:
   # all markdown files
   - scope:
@@ -35,39 +46,29 @@ defaults:
     values:
       layout: post
 
+# collections
 collections:
-  # generate page for each member
   members:
     output: true
-  # generate page for each post
-  posts:
-    output: true
-
-# jekyll plugins
-plugins:
-  - jekyll-spaceship
-  - jekyll-sitemap
-  - jekyll-redirect-from
-  - jekyll-feed
-  - jekyll-last-modified-at
-
-# code block syntax highlighting
-highlighter: rouge
-
-# jekyll theme
-theme: null
 
 # sass settings
 sass:
-  sass_dir: _styles
+  sass_dir: css
 
-# force jekyll to include certain files/folders
-include:
-  - _styles
-  - _scripts
+# syntax highlighting
+highlighter: rouge
 
-# force jekyll to exclude certain files/folders
-exclude:
-  - README.md
-  - LICENSE.md
-  - CITATION.cff
+# plugins
+plugins:
+  - jekyll-redirect-from
+  - jekyll-feed
+  - jekyll-sitemap
+  # - jekyll-github-metadata
+  # - jekyll-avatar
+  # - jekyll-gist
+  # - jekyll-mentions
+  # - jekyll-relative-links
+  # - jemoji
+
+# jekyll theme
+theme: null

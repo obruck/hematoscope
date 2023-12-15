@@ -1,17 +1,9 @@
 - id: doi:10.1158/2643-3230.BCD-20-0162
-  type: paper
   image: images/publications/mds_bcd.jpeg
-  #description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
   #date: 2021-5-1
-  #repo: greenelab/meta-review
-  #buttons:
+  #extra-links:
   #  - type: manubot
-  #    link: https://greenelab.github.io/meta-review/
-  #  - type: source
-  #    text: Manuscript Source
-  #    link: https://github.com/greenelab/meta-review
-  #  - type: website
-  #    link: http://manubot.org/
+  #    link: https://greenelab.github.io/knowledge-graph-review/
   tags:
     - computer vision
     - myelodysplastic syndrome
@@ -24,6 +16,14 @@
     - big data
     - genetics
     - immunology
+  ##repo: greenelab/meta-review
+  #extra-links:
+    #- type: manubot
+    #  link: https://greenelab.github.io/meta-review/
+    #- type: source
+    #  link: https://github.com/greenelab/meta-review
+    #- type: website
+    #  link: http://manubot.org/
 
 - id: doi:10.1038/s41379-021-00864-0
   image: images/publications/rcc.jpeg

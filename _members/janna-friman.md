@@ -2,7 +2,7 @@
 name: Jaana Friman
 image: images/members/jaana.jpg
 #description: Principal investigator
-role: alumni
+role: engineer
 #aliases:
 # - U. Goode
 #links:

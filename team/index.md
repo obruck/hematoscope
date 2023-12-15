@@ -5,66 +5,148 @@ nav:
   tooltip: About our team
 ---
 
-# {% include icon.html icon="fa-solid fa-users" %} Team
+# <i class="fas fa-users"></i>Team
 
 The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. Team members include physicians, machine learning engineers, software engineers and slide scanner engineers. We foster an environment where everyone feels appreciated and students receive the guidance they need.
 
-{% include list.html data="members" component="portrait" filters="role: pi" %}
-{% include list.html data="members" component="portrait" filters="role: ^(?!pi$|alumni$)" %}
-
-
 {% include section.html %}
 
-# {% include icon.html icon="fa-solid fa-user-graduate" %} Alumni
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: pi"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: md"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: phd"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: programmer"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: engineer"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: undergrad"
+%}
 
-{% include list.html data="members" component="portrait" filters="role: alumni" %}
+<br/><br/>
+# <i class="fas fa-user-graduate"></i>Alumni
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: alumni"
+%}
 
+{:.center}
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
 Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python). Our other key areas of development include cloud computing, software development, HL7 FHIR implementation, and database management. Feel free to reach out!
+{:.center}
 
 {%
-  include button.html
+  include link.html
   icon="fas fa-hands-helping"
-  type="address"
   text="Join the Team"
   link="contact"
+  style="button"
 %}
-<br/>
-{%
-  include button.html
-  icon="fas fa-venus-mars"
-  text="Gender Equality Plan"
-  link="images/gep/gep.pdf"
-%}
+{:.center}
 
-{% include section.html %}
+{%
+include link.html
+icon="fas fa-venus-mars"
+text="Gender Equality Plan"
+link="images/gep/gep.pdf"
+style="button"
+%}
+{:.center}
 
 {% include section.html %}
 
 ## Funding
 
 Our work is made possible by funding from several organizations.
+{:.center}
 
-{% capture content %}
 
+{%
+  include gallery.html
+  style="square"
 
-{% include figure.html image="images/funding/hus.png" link="https://www.hus.fi/en/" tooltip="HUS" %}
-{% include figure.html image="images/funding/huslab.png" link="https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging/" tooltip="HUSLAB" %}
-{% include figure.html image="images/funding/pss.png" link="https://pss-saatio.fi/en/" tooltip="Päivikki and Sakari Sohlberg Foundation" %}
-{% include figure.html image="images/funding/fls.png" link="https://fls.fi/" tooltip="Finska Läkaresällskapet Foundation" %}
-{% include figure.html image="images/funding/gyllenberg.png" link="https://www.gyllenbergs.fi/en/" tooltip="Signe & Ane Gyllenberg Foundation" %}
-{% include figure.html image="images/funding/rbs.png" link="https://runarbackstrominsaatio.fi/en/" tooltip="Runar Bäckström Foundation" %}
-{% include figure.html image="images/funding/laaketieteensaatio.jpg" link="https://laaketieteensaatio.fi/en/home/" tooltip="Finnish Medical Foundation" %}
-{% include figure.html image="images/funding/syopasaatio.png" link="https://syopasaatio.fi/" tooltip="Finnish Cancer Foundation" %}
-{% include figure.html image="images/funding/minerva.png" link="https://minervafoundation.fi/" tooltip="Minerva Foundation" %}
-{% include figure.html image="images/funding/KAlbinJohansson.png" link="https://www.foundationweb.net/johansson/" tooltip="K Albin Johansson Foundation" %}
-{% include figure.html image="images/funding/paulo.png" link="https://www.paulo.fi/" tooltip="Paulo Foundation" %}
-{% include figure.html image="images/funding/gilead.png" link="https://www.gilead.com/science-and-medicine/research" tooltip="Gilead Sciences" %}
-{% include figure.html image="images/funding/pfizer.png" link="https://www.pfizer.com/science" tooltip="Pfizer" %}
-{% include figure.html image="images/funding/aka.png" link="https://www.aka.fi/en/" tooltip="Academy of Finland" %}
+  image1="images/funding/hus.png"
+  link1="https://www.hus.fi/en/"
+  tooltip1="HUS"
 
-{% endcapture %}
+  image2="images/funding/huslab.png"
+  link2="https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging"
+  tooltip2="HUSLAB"
 
-{% include grid.html style="square" content=content %}
+  image3="images/funding/pss.png"
+  link3="https://pss-saatio.fi/en/"
+  tooltip3="Päivikki and Sakari Sohlberg Foundation"
+  
+  image4="images/funding/fls.png"
+  link4="https://fls.fi/"
+  tooltip4="Finska Läkaresällskapet Foundation"
+
+  image5="images/funding/gyllenberg.png"
+  link5="https://www.gyllenbergs.fi/en"
+  tooltip5="Signe & Ane Gyllenberg Foundation"
+
+  image6="images/funding/rbs.png"
+  link6="https://runarbackstrominsaatio.fi/en/"
+  tooltip6="Runar Bäckström Foundation"
+
+  image7="images/funding/laaketieteensaatio.png"
+  link7="https://laaketieteensaatio.fi/en/home/"
+  tooltip7="Finnish Medical Foundation"
+  
+  image8="images/funding/syopasaatio.png"
+  link8="https://syopasaatio.fi/"
+  tooltip8="Finnish Cancer Foundation"
+  
+  image9="images/funding/minerva.png"
+  link9="https://minervafoundation.fi"
+  tooltip9="Minerva Foundation"
+  
+  image10="images/funding/KAlbinJohansson.png"
+  link10="https://www.foundationweb.net/johansson/"
+  tooltip10="K Albin Johansson Foundation"
+  
+  image11="images/funding/paulo.png"
+  link11="https://www.paulo.fi/"
+  tooltip11="Paulo Foundation"
+  
+  image12="images/funding/gilead.png"
+  link12="https://www.gilead.com/science-and-medicine/research"
+  tooltip12="Gilead Sciences"
+  
+  image13="images/funding/pfizer.png"
+  link13="https://www.pfizer.com/science"
+  tooltip13="Pfizer"
+  
+  image14="images/funding/aka.png"
+  link14="https://www.aka.fi/en/"
+  tooltip14="Academy of Finland"
+%}
