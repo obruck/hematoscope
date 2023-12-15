@@ -1,0 +1,219 @@
+# GENERATED AUTOMATICALLY, DO NOT EDIT
+
+- id: doi:10.1158/2643-3230.BCD-20-0162
+  title: Machine Learning of Bone Marrow Histopathology Identifies Genetic and Clinical
+    Determinants in Patients with MDS
+  authors:
+  - "Oscar E. Br\xFCck"
+  - "Susanna E. Lallukka-Br\xFCck"
+  - Helena R. Hohtari
+  - Aleksandr Ianevski
+  - Freja T. Ebeling
+  - Panu E. Kovanen
+  - "Soili I. Kyt\xF6l\xE4"
+  - Tero A. Aittokallio
+  - Pedro M. Ramos
+  - Kimmo V. Porkka
+  - Satu M. Mustjoki
+  publisher: Blood Cancer Discovery
+  date: '2021-05-01'
+  link: https://doi.org/gntvj2
+  image: images/publications/mds_bcd.jpeg
+  tags:
+  - computer vision
+  - myelodysplastic syndrome
+  - genetics
+- id: doi:10.1016/j.ccell.2020.06.002
+  title: Immunogenomic Landscape of Hematological Malignancies
+  authors:
+  - Olli Dufva
+  - "Petri P\xF6l\xF6nen"
+  - "Oscar Br\xFCck"
+  - "Mikko A.I. Ker\xE4nen"
+  - Jay Klievink
+  - Juha Mehtonen
+  - Jani Huuhtanen
+  - Ashwini Kumar
+  - Disha Malani
+  - Sanna Siitonen
+  - Matti Kankainen
+  - Bishwa Ghimire
+  - Jenni Lahtela
+  - Pirkko Mattila
+  - "Markus V\xE4h\xE4-Koskela"
+  - Krister Wennerberg
+  - Kirsi Granberg
+  - Suvi-Katri Leivonen
+  - Leo Meriranta
+  - Caroline Heckman
+  - "Sirpa Lepp\xE4"
+  - Matti Nykter
+  - Olli Lohi
+  - "Merja Hein\xE4niemi"
+  - Satu Mustjoki
+  publisher: Cancer Cell
+  date: '2020-09-01'
+  link: https://doi.org/gg4nbd
+  image: images/publications/cancercell.jpeg
+  tags:
+  - hematology
+  - big data
+  - genetics
+  - immunology
+- id: doi:10.1038/s41379-021-00864-0
+  title: Spatial immunoprofiling of the intratumoral and peritumoral tissue of renal
+    cell carcinoma patients
+  authors:
+  - "Oscar Br\xFCck"
+  - Moon Hee Lee
+  - Riku Turkki
+  - Ilona Uski
+  - "Patrick Penttil\xE4"
+  - Lassi Paavolainen
+  - Panu Kovanen
+  - "Petrus J\xE4rvinen"
+  - Petri Bono
+  - Teijo Pellinen
+  - Satu Mustjoki
+  - Anna Kreutzman
+  publisher: Modern Pathology
+  date: '2021-07-02'
+  link: https://doi.org/gm4hd3
+  image: images/publications/rcc.jpeg
+  tags:
+  - renal cell carcinoma
+  - spatial image analysis
+  - immunology
+- id: doi:10.1158/2159-8290.CD-21-0410
+  title: Implementing a functional precision medicine tumor board for acute myeloid
+    leukemia
+  authors:
+  - Disha Malani
+  - Ashwini Kumar
+  - Oscar Bruck
+  - Mika Kontro
+  - Bhagwan Yadav
+  - Monica Hellesoy
+  - Heikki Kuusanmaki
+  - Olli Dufva
+  - Matti Kankainen
+  - Samuli Eldfors
+  - Swapnil Potdar
+  - Jani Saarela
+  - Laura Turunen
+  - Alun Parsons
+  - Imre Vastrik
+  - Katja Kivinen
+  - Janna Saarela
+  - Riikka Raty
+  - Minna Lehto
+  - Maija Wolf
+  - Bjorn Tore Gjertsen
+  - Satu Mustjoki
+  - Tero Aittokallio
+  - Krister Wennerberg
+  - Caroline A Heckman
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  publisher: Cancer Discovery
+  date: '2021-11-17'
+  link: https://doi.org/gnkbvc
+  image: images/publications/ism2.jpeg
+  tags:
+  - acute myeloid leukemia
+  - multiomics
+  - drug sentivity screening
+- id: doi:10.1182/bloodadvances.2019000792
+  title: Immune profiles in acute myeloid leukemia bone marrow associate with patient
+    age, T-cell receptor clonality, and survival
+  authors:
+  - "Oscar Br\xFCck"
+  - Olli Dufva
+  - Helena Hohtari
+  - Sami Blom
+  - Riku Turkki
+  - Mette Ilander
+  - Panu Kovanen
+  - Celine Pallaud
+  - Pedro Marques Ramos
+  - "Hanna L\xE4hteenm\xE4ki"
+  - "Katja V\xE4lim\xE4ki"
+  - Mohamed El Missiry
+  - Antonio Ribeiro
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  - Teijo Pellinen
+  - Satu Mustjoki
+  publisher: Blood Advances
+  date: '2020-01-28'
+  link: https://doi.org/gh9b8t
+  image: images/publications/aml_imm.jpeg
+  tags:
+  - acute myeloid leukemia
+  - immunology
+  - image analysis
+- id: doi:10.1038/s41375-018-0360-1
+  title: Immune cell constitution in bone marrow microenvironment predicts outcome
+    in adult ALL
+  authors:
+  - Helena Hohtari
+  - "Oscar Br\xFCck"
+  - Sami Blom
+  - Riku Turkki
+  - Marjatta Sinisalo
+  - Panu E. Kovanen
+  - Olli Kallioniemi
+  - Teijo Pellinen
+  - Kimmo Porkka
+  - Satu Mustjoki
+  publisher: Leukemia
+  date: '2019-01-11'
+  link: https://doi.org/gh6fn8
+  image: images/publications/ball_imm.jpeg
+  tags:
+  - acute lymphoid leukemia
+  - immunology
+  - image analysis
+- id: doi:10.1038/s41375-018-0175-0
+  title: Immune cell contexture in the bone marrow tumor microenvironment impacts
+    therapy response in CML
+  authors:
+  - "Oscar Br\xFCck"
+  - Sami Blom
+  - Olli Dufva
+  - Riku Turkki
+  - Himanshu Chheda
+  - Antonio Ribeiro
+  - Panu Kovanen
+  - Tero Aittokallio
+  - Perttu Koskenvesa
+  - Olli Kallioniemi
+  - Kimmo Porkka
+  - Teijo Pellinen
+  - Satu Mustjoki
+  publisher: Leukemia
+  date: '2018-06-20'
+  link: https://doi.org/gdv2ts
+  image: images/publications/cml_imm.jpeg
+  tags:
+  - chronic myeloid leukemia
+  - immunology
+  - image analysis
+- id: doi:10.1158/1078-0432.CCR-21-3140
+  title: Clinical Impact of Immune Cells and Their Spatial Interactions in Diffuse
+    Large B-Cell Lymphoma Microenvironment
+  authors:
+  - Matias Autio
+  - Suvi-Katri Leivonen
+  - "Oscar Br\xFCck"
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Teijo Pellinen
+  - "Sirpa Lepp\xE4"
+  publisher: Clinical Cancer Research
+  date: '2021-12-14'
+  link: https://doi.org/gntwt5
+  image: images/publications/dlbcl_imm.jpeg
+  tags:
+  - b-cell lymphoma
+  - immunology
+  - spatial image analysis
