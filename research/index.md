@@ -13,6 +13,7 @@ In hematology, there is an acute unmet need for automated machine vision to spee
 include figure.html
 image="images/slidescanner.jpg"
 caption="The automated slide scanner"
+width="100%"
 %}
 <br>
 We have set up a digital slide scanner in the Helsinki University Hospital laboratory (HUSLAB). By 2023, we have already digitized 50 000 standard cytomorphological samples making it by far the world’s largest hematocytological digital image archive. The second aim of the project is to develop image analysis algorithms to decode cell morphologies present in the hematocytological samples. Our software will replicate cytopathological examination of bone marrow and blood samples by detecting and classifying cells into 14 different types, inform of signs of dysplasia, and notify on the sample's general composition. In addition, the software can identify novel biomarkers of treatment.  
