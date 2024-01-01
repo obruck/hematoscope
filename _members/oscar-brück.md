@@ -9,6 +9,7 @@ links:
   orcid: 0000-0002-7842-9419
   email: oscarbruck@hus.fi
   twitter: oscarbruck
+  #linkedin: oscarbruck
   google-scholar: RDtkUAgAAAAJ
 ---
 
