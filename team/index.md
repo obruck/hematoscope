@@ -82,8 +82,9 @@ style="button"
 %}
 {:.center}
 
-{% include section.html %}
 -->
+
+{% include section.html %}
 
 ## Funding
 
