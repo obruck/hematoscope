@@ -54,7 +54,7 @@ filters="role: undergrad"
 
 
 {%
-  include gallery.html
+  include gallery1.html
   style="square"
 
   image1="images/labfun/lunch2024.jpg"
