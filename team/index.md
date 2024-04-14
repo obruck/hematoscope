@@ -50,15 +50,14 @@ filters="role: undergrad"
 
 <br/><br/>
 
-## Gallery
+# <i class="fa-solid fa-sun"></i>Lab fun
 
-Lab fun
-{:.center}
+{% include section.html background="images/banner.jpg" dark=true%}
 
 
 {%
-  include gallery.html
-  style="rectangle"
+  include gallery1.html
+  style="square"
 
   image1="images/labfun/lunch2024.jpg"
   link1=""

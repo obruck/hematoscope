@@ -1,0 +1,34 @@
+{%- assign max = 0 -%}
+
+{%- for i in (1..100) -%}
+  {%- assign image = "image" | append: i -%}
+  {%- assign image = include[image] -%}
+  {%- if image -%}
+    {%- assign max = i -%}
+  {%- endif -%}
+{%- endfor -%}
+
+<div class="gallery" data-style="{{ include.style }}" data-number="{{ max }}">
+  <div class="gallery-row">
+    {%- for i in (1..max) -%}
+      {%- assign image = "image" | append: i -%}
+      {%- assign image = include[image] -%}
+      {%- assign tooltip = "tooltip" | append: i -%}
+      {%- assign tooltip = include[tooltip] -%}
+      {%- assign link = "link" | append: i -%}
+      {%- assign link = include[link] -%}
+
+      {%- if image -%}
+        <a
+          {% if link %}href="{{ link | relative_url }}"{% endif %}
+          class="gallery_item"
+          data-tooltip="{{ tooltip }}"
+        >
+          <img src="{{ image | relative_url }}" loading="lazy">
+        </a>
+      {%- endif -%}
+
+      {%- if loop.index % 2 == 0 %}  </div><div class="gallery-row">  {%- endif -%}
+    {%- endfor -%}
+  </div>
+</div>
