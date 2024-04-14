@@ -50,7 +50,7 @@ filters="role: undergrad"
 
 <br/><br/>
 
-# <i class="fa-solid fa-sun"></i>Lab fun
+# <i class="<i class="fa-regular fa-sun"></i>Lab fun
 
 
 {%
@@ -75,8 +75,8 @@ filters="role: undergrad"
 
 %}
 
-
 <br/><br/>
+
 # <i class="fas fa-user-graduate"></i>Alumni
 {%
 include list.html
