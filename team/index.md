@@ -50,7 +50,7 @@ filters="role: undergrad"
 
 <br/><br/>
 
-# <i class="fa-solid fa-heart"></i>Lab fun
+# <i class="fas fa-heart"></i>Lab fun
 
 
 {%
@@ -59,7 +59,7 @@ filters="role: undergrad"
 
   image97="images/labfun/lunch2024.jpg"
   link97="images/labfun/lunch2024.jpg"
-  tooltip97="Mushroom picking 2023"
+  tooltip97="100k sample lunch 2024"
 
   image98="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
   link98="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
