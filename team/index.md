@@ -49,6 +49,29 @@ filters="role: undergrad"
 %}
 
 <br/><br/>
+
+## Gallery
+
+Lab fun
+{:.center}
+
+
+{%
+  include gallery.html
+  style="square"
+
+  image1="images/labfun/lunch2024.jpg"
+  link1=""
+  tooltip1=""
+
+  image2="images/labfun/Mushroom_5.jpg"
+  link2=""
+  tooltip2=""
+
+%}
+
+
+<br/><br/>
 # <i class="fas fa-user-graduate"></i>Alumni
 {%
 include list.html
