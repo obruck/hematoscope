@@ -57,21 +57,21 @@ filters="role: undergrad"
   include gallery.html
   style="square"
 
-  image1="images/labfun/lunch2024.jpg"
-  link1=""
-  tooltip1=""
+  image97="images/labfun/lunch2024.jpg"
+  link97="images/labfun/lunch2024.jpg"
+  tooltip97="Mushroom picking 2023"
 
-  image2="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
-  link2=""
-  tooltip2=""
+  image98="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
+  link98="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
+  tooltip98="Mushroom picking 2023"
 
-  image3="images/labfun/Mushroom_Aug2023/Mushroom_1.jpg"
-  link3=""
-  tooltip3=""
+  image99="images/labfun/Mushroom_Aug2023/Mushroom_1.jpg"
+  link99="images/labfun/Mushroom_Aug2023/Mushroom_1.jpg"
+  tooltip99="Mushroom picking 2023"
   
-  image4="images/labfun/Mushroom_Aug2023/Mushroom_4.jpg"
-  link4=""
-  tooltip4=""
+  image100="images/labfun/Mushroom_Aug2023/Mushroom_4.jpg"
+  link100="images/labfun/Mushroom_Aug2023/Mushroom_4.jpg"
+  tooltip100="Mushroom picking 2023"
 
 %}
 
