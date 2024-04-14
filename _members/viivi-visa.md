@@ -1,7 +1,7 @@
 ---
 name: Viivi Visa
 image: images/members/member.jpg
-role: undergrad
+role: alumni
 links:
   #linkedin: otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
@@ -9,4 +9,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Viivi is an undergrad student from Metropolia University of Applied Sciences working on her Master's thesis on red blood cell detection and classification from peripheral blood smears. She is closely working together with Rosa and Otso.
+Viivi is an undergrad student from Metropolia University of Applied Sciences. She worked closely together with Viivi and Otso. Viivi completed her Master's thesis on red blood cell detection and classification from peripheral blood smears.

@@ -2,7 +2,7 @@
 name: Julia Aaltonen
 image: images/members/JuliaA2.jpg
 #description: Laboratory Medicine
-role: engineer
+role: alumni
 #links:
 #  home-page: felixcited.com
 #  email: felix@cited.com

@@ -61,7 +61,7 @@ filters="role: alumni"
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python). Our other key areas of development include cloud computing, software development, HL7 FHIR implementation, and database management. Feel free to reach out!
+Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python), software development, or HL7 FHIR implementation. Feel free to reach out!
 {:.center}
 
 {%
