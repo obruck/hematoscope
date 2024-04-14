@@ -58,15 +58,23 @@ Lab fun
 
 {%
   include gallery.html
-  style="square"
+  style="rectangle"
 
   image1="images/labfun/lunch2024.jpg"
   link1=""
   tooltip1=""
 
-  image2="images/labfun/Mushroom_5.jpg"
+  image2="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
   link2=""
   tooltip2=""
+
+  image3="images/labfun/Mushroom_Aug2023/Mushroom_1.jpg"
+  link3=""
+  tooltip3=""
+  
+  image4="images/labfun/Mushroom_Aug2023/Mushroom_4.jpg"
+  link4=""
+  tooltip4=""
 
 %}
 
