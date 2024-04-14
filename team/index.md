@@ -52,8 +52,6 @@ filters="role: undergrad"
 
 # <i class="fa-solid fa-sun"></i>Lab fun
 
-{% include section.html background="images/banner.jpg" dark=true%}
-
 
 {%
   include gallery1.html
