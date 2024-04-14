@@ -50,11 +50,11 @@ filters="role: undergrad"
 
 <br/><br/>
 
-# <i class="<i class="fa-regular fa-sun"></i>Lab fun
+# <i class="fa-regular fa-sun"></i>Lab fun
 
 
 {%
-  include gallery1.html
+  include gallery.html
   style="square"
 
   image1="images/labfun/lunch2024.jpg"
