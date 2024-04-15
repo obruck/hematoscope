@@ -58,8 +58,8 @@
         object-fit: cover;
         width: 100%; /* Ensure the image fills the square container */
         height: auto; /* Maintain aspect ratio */
-        min-width: 100%;
-        min-height: 100%;
+        /* min-width: 100%;
+        min-height: 100%; */
       }
     }
   }
