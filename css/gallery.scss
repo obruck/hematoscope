@@ -41,8 +41,6 @@
   &[data-style="square-original-ratio"] {
     .gallery_item {
       position: relative;
-      width: calc(50% - 5%); /* Set the width of each item to half the container width minus margin */
-      max-width: 45%; /* Set a maximum width for each item */
       
 
       &:before {
@@ -58,8 +56,8 @@
         object-fit: cover;
         width: 100%; /* Ensure the image fills the square container */
         height: auto; /* Maintain aspect ratio */
-        /* min-width: 100%;
-        min-height: 100%; */
+        min-width: 100%;
+        min-height: 100%;
       }
     }
   }
