@@ -42,15 +42,15 @@
 
   /* Adjust grid layout to preserve original aspect ratios and limit to 2 images per row */
   @media (min-width: $tablet) {
-    grid-template-columns: repeat(2, 1fr); /* 2 images per row */
-  }
-  
-  @media (max-width: $tablet) {
     grid-template-columns: repeat(auto-fill, minmax(45%, 1fr)); /* Adjust the percentage as needed */
   }
 
-  @media (max-width: $phone) {
+  @media (max-width: $tablet) {
     grid-template-columns: repeat(auto-fill, minmax(80%, 1fr)); /* Adjust the percentage as needed */
+  }
+
+  @media (max-width: $phone) {
+    grid-template-columns: repeat(auto-fill, minmax(90%, 1fr)); /* Adjust the percentage as needed */
   }
 
   /* Adjust the number of columns for specific cases if needed */
