@@ -1,3 +1,37 @@
+- id: doi:10.1182/blood.2023022740
+  image: images/publications/blood_he.jpeg
+  tags:
+    - bone marrow
+    - histopathology
+    - computer vision
+    
+- id: doi:10.1038/s41375-022-01662-6
+  image: images/publications/pyroptosis.jpeg
+  tags:
+    - acute myeloid leukemia
+    - multiomics
+    - immunology
+  
+- id: doi:10.2217/fon-2023-0120
+  image: images/publications/mm.jpeg
+  tags:
+    - multiple myeloma
+    - real-world data
+    - treatment patterns
+    
+- id: doi:10.1038/s43856-023-00418-2
+  image: images/publications/geography.jpeg
+  tags:
+    - research policy
+    - bibliometric analysis
+    
+- id: doi:10.1038/s41416-023-02329-4
+  image: images/publications/rcc_immunology.jpeg
+  tags:
+    - renal cell carcinoma
+    - computer vision
+    - multiomics
+    
 - id: doi:10.1158/2643-3230.BCD-20-0162
   image: images/publications/mds_bcd.jpeg
   #date: 2021-5-1
