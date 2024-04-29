@@ -22,7 +22,7 @@ Computer-assisted diagnostics will reduce time required for slide examination, p
 
 {% include section.html %}
 
-# <i class="fa-solid fa-user-graduate"></i>Selected publications
+# <i class="fas fa-user-graduate"></i>Selected publications
 
 {% include search-box.html %}
 
