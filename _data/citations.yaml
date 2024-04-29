@@ -1,5 +1,87 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1182/blood.2023022740
+  title: Toward an anatomy of human hematopoiesis
+  authors:
+  - "Oscar Br\xFCck"
+  publisher: Blood
+  date: '2023-12-28'
+  link: https://doi.org/gtsj6t
+  image: images/publications/blood_he.jpeg
+  tags:
+  - bone marrow
+  - histopathology
+  - computer vision
+- id: doi:10.1038/s41375-022-01662-6
+  title: An immunity and pyroptosis gene-pair signature predicts overall survival
+    in acute myeloid leukemia
+  authors:
+  - Weikaixin Kong
+  - Liye He
+  - Jie Zhu
+  - "Oscar Br\xFCck"
+  - Kimmo Porkka
+  - Caroline A. Heckman
+  - Sujie Zhu
+  - Tero Aittokallio
+  publisher: Leukemia
+  date: '2022-08-09'
+  link: https://doi.org/gs82q2
+  image: images/publications/pyroptosis.jpeg
+  tags:
+  - acute myeloid leukemia
+  - multiomics
+  - immunology
+- id: doi:10.2217/fon-2023-0120
+  title: "Real-world evidence of multiple myeloma treated from 2013 to\_2019 in the\
+    \ Hospital District of Helsinki and Uusimaa, Finland"
+  authors:
+  - Johanna Vikkula
+  - Kristiina Uusi-Rauva
+  - Tuuli Ranki
+  - Iiro Toppila
+  - "Maria Aalto-Set\xE4l\xE4"
+  - Katariina Pousar
+  - Lotta Vassilev
+  - Kimmo Porkka
+  - Raija Silvennoinen
+  - "Oscar Br\xFCck"
+  publisher: Future Oncology
+  date: '2023-09-01'
+  link: https://doi.org/gtsj6v
+  image: images/publications/mm.jpeg
+  tags:
+  - multiple myeloma
+  - real-world data
+  - treatment patterns
+- id: doi:10.1038/s43856-023-00418-2
+  title: A bibliometric analysis of geographic disparities in the authorship of leading
+    medical journals
+  authors:
+  - "Oscar Br\xFCck"
+  publisher: Communications Medicine
+  date: '2023-12-11'
+  link: https://doi.org/gtsj6w
+  image: images/publications/geography.jpeg
+  tags:
+  - research policy
+  - bibliometric analysis
+- id: doi:10.1038/s41416-023-02329-4
+  title: Computational textural mapping harmonises sampling variation and reveals
+    multidimensional histopathological fingerprints
+  authors:
+  - Otso Brummer
+  - "Petri P\xF6l\xF6nen"
+  - Satu Mustjoki
+  - "Oscar Br\xFCck"
+  publisher: British Journal of Cancer
+  date: '2023-06-30'
+  link: https://doi.org/gs82qs
+  image: images/publications/rcc_immunology.jpeg
+  tags:
+  - renal cell carcinoma
+  - computer vision
+  - multiomics
 - id: doi:10.1158/2643-3230.BCD-20-0162
   title: Machine Learning of Bone Marrow Histopathology Identifies Genetic and Clinical
     Determinants in Patients with MDS
