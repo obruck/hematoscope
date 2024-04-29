@@ -4,6 +4,19 @@
     - bone marrow
     - histopathology
     - computer vision
+
+- id: doi:10.1038/s41592-024-02233-6
+  image: images/publications/natmed_cellsegmentation.jpeg
+  tags:
+    - computer vision
+    - cell segmentation
+
+- id: doi:10.1038/s41408-022-00667-9
+  image: images/publications/cml_shady.jpeg
+  tags:
+    - chronic myeloid leukemia
+    - treatment-free remission
+    - genetics
     
 - id: doi:10.1038/s41375-022-01662-6
   image: images/publications/pyroptosis.jpeg
