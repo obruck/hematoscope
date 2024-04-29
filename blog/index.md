@@ -13,7 +13,6 @@ nav:
 {%
 include figure.html
 image="images/blog/hematoscope.jpg"
-title=Art by Suvi Aarninsalo & Elina Hakala
 width="100%"
 %}
 
