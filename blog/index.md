@@ -2,10 +2,21 @@
 title: Blog
 nav:
   order: 4
-  tooltip: Musings and miscellany
+  tooltip: Behind the scene
 ---
 
 # <i class="fas fa-feather-alt"></i>Blog
+
+
+{% include section.html full=true %}
+
+{%
+include figure.html
+image="images/blog/hematoscope.jpg"
+title=Art by Suvi Aarninsalo & Elina Hakala
+width="100%"
+%}
+
 
 {% include section.html %}
 
