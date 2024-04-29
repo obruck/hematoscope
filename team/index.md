@@ -127,10 +127,10 @@ Our work is made possible by funding from several organizations.
   link1="https://www.hus.fi/en/"
   tooltip1="HUS"
 
-  image2="images/funding/huslab.png"
-  link2="https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging"
-  tooltip2="HUSLAB"
-
+  image2="images/funding/juselius.svg"
+  link2="https://www.sigridjuselius.fi/en/"
+  tooltip2="Juselius Foundation"
+  
   image3="images/funding/pss.png"
   link3="https://pss-saatio.fi/en/"
   tooltip3="Päivikki and Sakari Sohlberg Foundation"
