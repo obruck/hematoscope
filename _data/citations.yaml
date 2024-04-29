@@ -12,6 +12,81 @@
   - bone marrow
   - histopathology
   - computer vision
+- id: doi:10.1038/s41592-024-02233-6
+  title: 'The multimodality cell segmentation challenge: toward universal solutions'
+  authors:
+  - Jun Ma
+  - Ronald Xie
+  - Shamini Ayyadhury
+  - Cheng Ge
+  - Anubha Gupta
+  - Ritu Gupta
+  - Song Gu
+  - Yao Zhang
+  - Gihun Lee
+  - Joonkee Kim
+  - Wei Lou
+  - Haofeng Li
+  - Eric Upschulte
+  - Timo Dickscheid
+  - "Jos\xE9 Guilherme de Almeida"
+  - Yixin Wang
+  - Lin Han
+  - Xin Yang
+  - Marco Labagnara
+  - Vojislav Gligorovski
+  - Maxime Scheder
+  - Sahand Jamal Rahi
+  - Carly Kempster
+  - Alice Pollitt
+  - Leon Espinosa
+  - "T\xE2m Mignot"
+  - Jan Moritz Middeke
+  - Jan-Niklas Eckardt
+  - Wangkai Li
+  - Zhaoyang Li
+  - Xiaochen Cai
+  - Bizhe Bai
+  - Noah F. Greenwald
+  - David Van Valen
+  - Erin Weisbart
+  - Beth A. Cimini
+  - Trevor Cheung
+  - "Oscar Br\xFCck"
+  - Gary D. Bader
+  - Bo Wang
+  publisher: Nature Methods
+  date: '2024-03-26'
+  link: https://doi.org/gtpwsf
+  image: images/publications/natmed_cellsegmentation.jpeg
+  tags:
+  - computer vision
+  - cell segmentation
+- id: doi:10.1038/s41408-022-00667-9
+  title: Epigenetic modifier gene mutations in chronic myeloid leukemia (CML) at diagnosis
+    are associated with risk of relapse upon treatment discontinuation
+  authors:
+  - Shady Adnan Awad
+  - "Oscar Br\xFCck"
+  - Naranie Shanmuganathan
+  - Timo Jarvinen
+  - "Hanna L\xE4hteenm\xE4ki"
+  - Jay Klievink
+  - Hazem Ibrahim
+  - "Soili Kyt\xF6l\xE4"
+  - Perttu Koskenvesa
+  - Timothy P. Hughes
+  - Susan Branford
+  - Matti Kankainen
+  - Satu Mustjoki
+  publisher: Blood Cancer Journal
+  date: '2022-04-20'
+  link: https://doi.org/gs82qx
+  image: images/publications/cml_shady.jpeg
+  tags:
+  - chronic myeloid leukemia
+  - treatment-free remission
+  - genetics
 - id: doi:10.1038/s41375-022-01662-6
   title: An immunity and pyroptosis gene-pair signature predicts overall survival
     in acute myeloid leukemia
