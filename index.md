@@ -69,7 +69,7 @@ We invest most of our efforts on collecting the world's largest high-resolution 
 %}
 
 {% capture text %}
-Our team is composed of ambitious and innovative reseachers. We believe in an inclusive work environment where everyone has an important role in achieving our goals.
+Our team is composed of ambitious and innovative researchers. We believe in an inclusive work environment where everyone has an important role in achieving our goals.
 
 [Meet our team &nbsp;→](team)
 {:.center}
