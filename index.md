@@ -63,7 +63,7 @@ We invest most of our efforts on collecting the world's largest high-resolution 
 {%
   include feature.html
   image="images/home/resources.png"
-  link="resources"
+  link="tools"
   headline="Our Resources"
   text=text
 %}
