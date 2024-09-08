@@ -56,8 +56,16 @@ filters="role: undergrad"
 {%
   include gallery_new.html
 
-  image97="images/labfun/lunch2024.jpg"
-  link97="images/labfun/lunch2024.jpg"
+  image95="images/labfun/2024/bouldering2024.jpg"
+  link95="images/labfun/2024/bouldering2024.jpg"
+  tooltip95="Bouldering 2024"
+
+  image96="images/labfun/2024/luca2024.jpg"
+  link96="images/labfun/2024/luca2024.jpg"
+  tooltip96="Pizza 2024"
+
+  image97="images/labfun/2024/lunch2024.jpg"
+  link97="images/labfun/2024/lunch2024.jpg"
   tooltip97="100k sample lunch 2024"
 
   image98="images/labfun/Mushroom_Aug2023/Mushroom_5.jpg"
@@ -178,4 +186,12 @@ Our work is made possible by funding from several organizations.
   image14="images/funding/aka.png"
   link14="https://www.aka.fi/en/"
   tooltip14="Academy of Finland"
+  
+  image15="images/funding/ihi.png"
+  link15="https://www.ihi.europa.eu/"
+  tooltip15="EU Innovative Health Initiative"
+  
+  image16="images/funding/eha.png"
+  link16="https://www.aka.fi/en/"
+  tooltip16="European Hematology Association"
 %}
