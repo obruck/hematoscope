@@ -27,7 +27,7 @@ engineer:
   text: Engineer
 
 regulation:
-  icon: fas fa-user-gear
+  icon: fa fa-legal
   text: Regulation Expert
 
 mascot:

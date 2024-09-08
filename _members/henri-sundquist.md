@@ -2,7 +2,7 @@
 name: Henri Sundquist
 image: images/members/Henri2.jpg
 #description: Principal investigator
-role: undergrad
+role: phd
 links:
   #linkedin: otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
