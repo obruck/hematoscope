@@ -96,7 +96,7 @@ filters="role: alumni"
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Currently, we welcome students and/or programmers with experience especially in medical data analysis (R or Python), software development, or HL7 FHIR implementation. Feel free to reach out!
+Currently, we welcome PhD students and/or postdocs with experience especially in data analysis (R or Python). Feel free to reach out!
 {:.center}
 
 {%
