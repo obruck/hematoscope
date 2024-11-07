@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Henri is pursuing an MSc degree in Life Science Informatics at the University of Helsinki. With a background in computer science, Henri is interested in the intersection of computational methods with the medical field and biological sciences. Currently, he is working on data mining automatically detected cytomorphological features and building prediction models to assess their predictive power.
+Henri holds an MSc degree in Life Science Informatics from the University of Helsinki. Currently, he is pursuing a PhD degree in the iCANDOC doctoral education pilot around the topic of computational cytomorphology. Current projects include downstream processing of cytomorphogical data and the development of models to discover biomarkers predictive of venetoclax response in AML. With a background in computer science, he is interested in the intersection of computational methods with the medical field and biological sciences.
