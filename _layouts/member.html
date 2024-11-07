@@ -5,22 +5,24 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <!-- {%- include figure.html image=page.image -%} -->
-<!-- Responsive styling for images only in this file -->
+<!-- Unique container for member image styling -->
+<div id="member-image-container">
+  {%- include figure.html image=page.image -%} <!-- Regular include, no class needed now -->
+</div>
+
 <style>
   /* Default to 100% width for small screens */
-  .responsive-member-image {
+  #member-image-container img {
     width: 100%;
   }
 
   /* Apply 40% width on screens larger than 768px */
   @media (min-width: 768px) {
-    .responsive-member-image {
+    #member-image-container img {
       width: 40%;
     }
   }
 </style>
-
-{%- include figure.html image=page.image class="responsive-member-image" -%} <!-- Use the class for styling -->
 
 
 <p class="center">
