@@ -10,16 +10,35 @@ layout: default
   {%- include figure.html image=page.image -%} <!-- Regular include, no class needed now -->
 </div>
 
+<!-- JavaScript to adjust image width based on its natural size and screen width -->
+<script>
+  window.addEventListener('load', function() {
+    var img = document.querySelector('#member-image-container img');
+    if (img) {
+      var width = img.naturalWidth;
+      var height = img.naturalHeight;
+      var screenWidth = window.innerWidth;
+
+      // Apply 40% width if both conditions are met:
+      // 1. Screen width >= 768px
+      // 2. Image width < height
+      if (screenWidth >= 768 && width < height) {
+        img.style.width = '40%';
+      }
+    }
+  });
+</script>
+
 <style>
   /* Default to 100% width for small screens */
   #member-image-container img {
     width: 100%;
   }
 
-  /* Apply 40% width on screens larger than 768px */
+  /* Apply 40% width on screens larger than 768px and if image width < height */
   @media (min-width: 768px) {
     #member-image-container img {
-      width: 40%;
+      width: 100%; /* Default to 100% width */
     }
   }
 </style>
