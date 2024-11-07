@@ -5,7 +5,23 @@ layout: default
 <h1>{{ page.title }}</h1>
 
 <!-- {%- include figure.html image=page.image -%} -->
-{%- include figure.html image=page.image width="40%" -%} <!-- Set member image width to 40% -->
+<!-- Responsive styling for images only in this file -->
+<style>
+  /* Default to 100% width for small screens */
+  .responsive-member-image {
+    width: 100%;
+  }
+
+  /* Apply 40% width on screens larger than 768px */
+  @media (min-width: 768px) {
+    .responsive-member-image {
+      width: 40%;
+    }
+  }
+</style>
+
+{%- include figure.html image=page.image class="responsive-member-image" -%} <!-- Use the class for styling -->
+
 
 <p class="center">
   {%- include role.html type=page.role text=true description=page.description -%}
