@@ -12,12 +12,15 @@ layout: default
 
 <!-- JavaScript to adjust image width based on its natural size and screen width -->
 <script>
-  window.addEventListener('load', function() {
+  function adjustImageWidth() {
     var img = document.querySelector('#member-image-container img');
     if (img) {
       var width = img.naturalWidth;
       var height = img.naturalHeight;
       var screenWidth = window.innerWidth;
+
+      // Reset image width to 100% before checking conditions
+      img.style.width = '100%';
 
       // Apply 40% width if both conditions are met:
       // 1. Screen width >= 768px
@@ -26,8 +29,29 @@ layout: default
         img.style.width = '40%';
       }
     }
-  });
+  }
+
+  // Run function on page load
+  window.addEventListener('load', adjustImageWidth);
+
+  // Re-run function when the window is resized
+  window.addEventListener('resize', adjustImageWidth);
 </script>
+
+<style>
+  /* Default to 100% width for small screens */
+  #member-image-container img {
+    width: 100%;
+  }
+
+  /* Apply 40% width on screens larger than 768px */
+  @media (min-width: 768px) {
+    #member-image-container img {
+      width: 100%; /* Default to 100% width, to be overwritten by JS */
+    }
+  }
+</style>
+
 
 <style>
   /* Default to 100% width for small screens */
