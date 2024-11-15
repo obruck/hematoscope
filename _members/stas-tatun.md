@@ -10,4 +10,7 @@ links:
   #twitter: oscarbruck
 ---
 
-Stas (BSc) is studying Bioinformation Technology at the Department of Neuroscience and Biomedical Engineering, Aalto University. Stas also teaches Python programming at Aalto University. Currently, he is working on normalizing images of MGG-stained samples from different slide scanners and clinical centers using generative adversarial networks (GAN).
+Stas is fascinated by all things related to big data. Currently finishing his MSc in Life Science Technologies at Aalto University,he is motivated to discover the faint
+signals amidst the abundant, but noisy, medical data. Currently working on foundation models for cytomorphological analysis, Stas aims to reduce the cost of
+medical data annotation, and to deliver accurate, explainable and computationally performant machine learning models.
+

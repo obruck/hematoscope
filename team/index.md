@@ -5,23 +5,17 @@ nav:
   tooltip: About our team
 ---
 
-# <i class="fas fa-users"></i>Team
-
 The Hematoscope Lab is a translational research group. Our researchers are engaged to improve the diagnostics and prognosis of patients with hematological diseases. The team is composed of physicians, computational scientists, bioanalysts, and slide scanner engineers. We cultivate a supportive atmosphere where every individual is valued, ensuring that students not only feel appreciated but also benefit from the essential guidance required for their personal and academic growth.
 
 {% include section.html %}
+
+# <i class="fas fa-users"></i>Team
 
 {%
 include list.html
 data="members"
 component="portrait"
 filters="role: pi"
-%}
-{%
-include list.html
-data="members"
-component="portrait"
-filters="role: md"
 %}
 {%
 include list.html
@@ -49,6 +43,16 @@ filters="role: undergrad"
 %}
 
 <br/><br/>
+
+
+# <i class="fas fa-user-md"></i>Clinical experts
+{%
+include list.html
+data="members"
+component="portrait"
+filters="role: md"
+%}
+
 
 # <i class="fas fa-heart"></i>Lab fun
 
