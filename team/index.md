@@ -42,8 +42,6 @@ component="portrait"
 filters="role: undergrad"
 %}
 
-<br/><br/>
-
 
 # <i class="fas fa-user-md"></i>Clinical experts
 {%
@@ -127,7 +125,7 @@ style="button"
 
 ## Funding
 
-Our work is made possible by funding from several organizations.
+Our work is made possible by funding from several organizations (last 5 years).
 {:.center}
 
 
@@ -198,4 +196,8 @@ Our work is made possible by funding from several organizations.
   image16="images/funding/eha.png"
   link16="https://www.aka.fi/en/"
   tooltip16="European Hematology Association"
+  
+  image17="images/funding/evansmds.png"
+  link17="https://evansmds.org/"
+  tooltip17="Edward P. Evans Foundation"
 %}
