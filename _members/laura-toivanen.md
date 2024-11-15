@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Laura (BSc) is studying Bioinformation Technology at the Department of Neuroscience and Biomedical Engineering, Aalto University. Laura is developing a digital phenotyping pipeline to collect relevant clinical annotations for acute myeloid leukemia patients. She has become an expert of the data secure HUS Acamedic environment. Laura is closely working with Kata.
+Laura is a second-year Master's student specializing in Complex Systems within the Life Science Technologies program at Aalto University. With a Bachelor's degree in Bioinformation Technology and experience working at the Hematoscope Lab, Laura has developed strong skills in digital phenotyping and clinical data analysis. Her current research focuses on building a digital phenotyping pipeline to collect critical clinical annotations for Acute Myeloid Leukemia (AML) patients. Laura is adept at using the secure HUS Acamedic environment, where she leverages advanced data analytics and machine learning techniques to advance her research.
