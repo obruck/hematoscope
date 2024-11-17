@@ -86,8 +86,8 @@ filters="role: md"
 
 <br/><br/>
 
-# <i class="fas fa-user-graduate"></i>Alumni
-<h1><a href="/Alumni" class="title-link"><i class="fas fa-user-graduate"></i> Alumni</a></h1>
+<!-- # <i class="fas fa-user-graduate"></i>Alumni -->
+<h1><a href="/alumni" class="title-link"><i class="fas fa-user-graduate"></i>Alumni</a></h1>
 
 {:.center}
 
