@@ -13,7 +13,7 @@ filters="role: alumni"
 
 {:.center}
 
-# <i class="fas fa-user-graduate"></i>Image archive
+# Past group images
 
 {%
 include figure.html

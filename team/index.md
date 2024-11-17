@@ -87,12 +87,7 @@ filters="role: md"
 <br/><br/>
 
 # <i class="fas fa-user-graduate"></i>Alumni
-{%
-include list.html
-data="members"
-component="portrait"
-filters="role: alumni"
-%}
+<h1><a href="/Alumni" class="title-link"><i class="fas fa-user-graduate"></i> Alumni</a></h1>
 
 {:.center}
 
