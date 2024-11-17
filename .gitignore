@@ -5,3 +5,12 @@ _site
 vendor
 debug.log
 __pycache__/
+.DS_Store
+.DS_Store
+.Rhistory
+images/.DS_Store
+images/labfun/.DS_Store
+images/funding/evansmds.pptx
+images/funding/evansmds.pdf
+images/labfun/.DS_Store
+images/.DS_Store
