@@ -29,7 +29,7 @@ The Hematoscope Lab is an academic team of physicians, programmers, scanner engi
 
 {%
 include figure.html
-image="images/members/Ryhmä2.jpg"
+image="images/members/group2024.jpg"
 width="100%"
 %}
 <!-- {% include banner.html image="images/home/cells.jpeg" %} -->
