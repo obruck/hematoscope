@@ -1,6 +1,6 @@
 ---
 name: Teemu Korhonen
-image: images/members/member.jpg
+image: images/members/teemu.jpg
 #description: Laboratory Medicine
 role: undergrad
 #links:

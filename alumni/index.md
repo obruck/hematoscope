@@ -3,7 +3,7 @@ title: Alumni
 ---
 
 
-# <i class="fas fa-user-graduate"></i>Alumni
+# Alumni
 {%
 include list.html
 data="members"
@@ -13,7 +13,7 @@ filters="role: alumni"
 
 {:.center}
 
-# Past group images
+# Past group photos
 
 {%
 include figure.html

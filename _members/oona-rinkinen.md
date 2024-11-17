@@ -1,6 +1,6 @@
 ---
 name: Oona Rinkinen
-image: images/members/member.jpg
+image: images/members/oona.jpg
 #description: Laboratory Medicine
 role: undergrad
 #links:
