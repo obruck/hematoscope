@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Kata (BSc) is studying Medicine at the University of Helsinki and Bioinformation Technology at the Department of Neuroscience and Biomedical Engineering, Aalto University. Kata is developing a digital phenotyping pipeline to collect relevant clinical annotations for acute myeloid leukemia patients. She has become an expert of the data secure HUS Acamedic environment. Kata is closely working with Laura.
+Katariina is a third-year medical student at the University of Helsinki. With a Bachelor’s degree in Bioinformation Technology from Aalto University and hands-on experience working in the Hematoscope Lab as part of her PhD Study Track (LTT tutkijalinja) studies, Katariina has developed expertise in clinical phenotyping and predictive data modeling. Her current research centers on building data-driven models to predict treatment responses in Chronic Myeloid Leukemia (CML) patients by leveraging clinical and cytomorphological data. Katariina applies data analytics and machine learning techniques within secure environments to advance her research.
