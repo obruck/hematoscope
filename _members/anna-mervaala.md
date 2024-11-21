@@ -1,5 +1,5 @@
 ---
-name: Anna Mervaala
+name: Anna Mervaala-Muroke
 image: images/members/Anna.jpg
 #description: Laboratory Medicine
 role: phd
