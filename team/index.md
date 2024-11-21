@@ -58,6 +58,14 @@ filters="role: md"
 {%
   include gallery_new.html
 
+  image93="images/labfun/2024/faro2024.jpg"
+  link93="images/labfun/2024/faro2024.jpg"
+  tooltip93="Prechristmas celebration 2024"
+
+  image94="images/labfun/2024/prison2024.jpg"
+  link94="images/labfun/2024/prison2024.jpg"
+  tooltip94="Prison Island 2024"
+
   image95="images/labfun/2024/bouldering2024.jpg"
   link95="images/labfun/2024/bouldering2024.jpg"
   tooltip95="Bouldering 2024"
