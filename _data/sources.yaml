@@ -5,6 +5,12 @@
     - image analysis
     - cellbytes
 
+- id: doi:10.1038/s41409-024-02374-4
+  image: images/publications/gvhd.jpg
+  tags:
+    - graft-versus-host-disease
+    - accessibility
+
 - id: doi:10.3324/haematol.2024.286267
   image: images/publications/dlbcl_matias.jpg
   tags:

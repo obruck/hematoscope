@@ -34,6 +34,41 @@
   - chronic myeloid leukemia
   - image analysis
   - cellbytes
+- id: doi:10.1038/s41409-024-02374-4
+  title: 'Standardized translations of the Lee Chronic GvHD Symptom Scale to 12 European
+    languages: an EU COST Action cGvHD Eurograft project'
+  authors:
+  - "Lars Klingen Gj\xE6rde"
+  - "Oscar Br\xFCck"
+  - Nico Gagelmann
+  - Eleni Gavriilaki
+  - Marit Inngjerdingen
+  - Mikko Keranen
+  - Annika Kisch
+  - Anders Eivind Myhre
+  - Attilio Olivieri
+  - Jose Antonio Perez-Simon
+  - Dijana Perovic
+  - Vladimir Perovic
+  - Agnieszka Piekarska
+  - Drazen Pulanic
+  - Kristin Rathje
+  - Sebastian Van Veen
+  - Guillaume Dachy
+  - Ivan Moiseev
+  - Olaf Penack
+  - Zinaida Peric
+  - Hildegard Greinix
+  - Stephanie J. Lee
+  - Daniel Wolff
+  - "H\xE9l\xE8ne Schoemans"
+  publisher: Bone Marrow Transplantation
+  date: '2024-07-17'
+  link: https://doi.org/g8tq26
+  image: images/publications/gvhd.jpg
+  tags:
+  - graft-versus-host-disease
+  - accessibility
 - id: doi:10.3324/haematol.2024.286267
   title: Characterization of tumor microenvironment and cell interaction patterns
     in testicular and diffuse large B-cell lymphomas
