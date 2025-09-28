@@ -2,7 +2,7 @@
 name: Johanna Heikkinen
 image: images/members/Johanna1.jpg
 #description: Principal investigator
-role: engineer
+role: alumni
 #aliases:
 # - U. Goode
 #links:

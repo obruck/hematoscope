@@ -1,3 +1,23 @@
+- id: doi:10.1038/s41375-025-02769-2
+  image: images/publications/cml_mikko.png
+  tags:
+    - chronic myeloid leukemia
+    - image analysis
+    - cellbytes
+
+- id: doi:10.3324/haematol.2024.286267
+  image: images/publications/dlbcl_matias.jpg
+  tags:
+    - b-cell lymphoma
+    - immunology
+    - spatial image analysis
+    
+- id: doi:10.1186/s12961-024-01228-1
+  image: images/publications/map.png
+  tags:
+    - research policy
+    - data privacy
+
 - id: doi:10.1182/blood.2023022740
   image: images/publications/blood_he.jpeg
   tags:

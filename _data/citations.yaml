@@ -1,5 +1,78 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: doi:10.1038/s41375-025-02769-2
+  title: Granulocyte abundance and maturation state at diagnosis predicts treatment-free
+    remission in CML
+  authors:
+  - Mikko Purhonen
+  - Mikael Tatun
+  - Katariina Luukkainen
+  - Kevin Hung
+  - Henri Sundquist
+  - Oda Tafjord
+  - "Stina S\xF6derlund"
+  - Shady Adnan-Awad
+  - Anni Dohlen
+  - Johanna Heikkinen
+  - Perttu Koskenvesa
+  - Sanna Siitonen
+  - Satu Mustjoki
+  - Naranie Shanmuganathan
+  - Coral Bryce
+  - Signe Danielsson
+  - Henrik Hjorth-Hansen
+  - "Ulla Olsson-Str\xF6mberg"
+  - Takashi Kumagai
+  - Shinya Kimura
+  - David M. Ross
+  - "Oscar Br\xFCck"
+  publisher: Leukemia
+  date: '2025-09-16'
+  link: https://doi.org/g948rt
+  image: images/publications/cml_mikko.png
+  tags:
+  - chronic myeloid leukemia
+  - image analysis
+  - cellbytes
+- id: doi:10.3324/haematol.2024.286267
+  title: Characterization of tumor microenvironment and cell interaction patterns
+    in testicular and diffuse large B-cell lymphomas
+  authors:
+  - Matias Autio
+  - "Oscar Br\xFCck"
+  - Marjukka Pollari
+  - Marja-Liisa Karjalainen-Lindsberg
+  - Klaus Beiske
+  - "Judit M\xE9szaros J\xF8rgensen"
+  - Harald Holte
+  - Teijo Pellinen
+  - Suvi-Katri Leivonen
+  - "Sirpa Lepp\xE4"
+  publisher: Haematologica
+  date: '2024-12-12'
+  link: https://doi.org/g92chh
+  image: images/publications/dlbcl_matias.jpg
+  tags:
+  - b-cell lymphoma
+  - immunology
+  - spatial image analysis
+- id: doi:10.1186/s12961-024-01228-1
+  title: European health regulations reduce registry-based research
+  authors:
+  - "Oscar Br\xFCck"
+  - Enni Sanmark
+  - Ville Ponkilainen
+  - "Alexander B\xFCtzow"
+  - Aleksi Reito
+  - Joonas H. Kauppila
+  - Ilari Kuitunen
+  publisher: Health Research Policy and Systems
+  date: '2024-09-30'
+  link: https://doi.org/g8nr45
+  image: images/publications/map.png
+  tags:
+  - research policy
+  - data privacy
 - id: doi:10.1182/blood.2023022740
   title: Toward an anatomy of human hematopoiesis
   authors:

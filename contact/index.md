@@ -47,9 +47,9 @@ We are located both in the hemalogy clinical laboratory of [HUSLAB Tullinpuomi](
 ### <i class="fas fa-mail-bulk"></i> Mailing Address
 
 {:.center}
-Biomedicum Helsinki 1, Hematoscope Haartmaninkatu 8 00290 Helsinki Finland  
+Biomedicum Helsinki 2C, Hematoscope Tukholmankatu 8C 00290 Helsinki Finland  
 or  
-P.O. Box 700, 00029 Helsinki Finland
+P.O. Box 705, 00029 HUS
 {:.center}
 
 
