@@ -1,5 +1,5 @@
 ---
-name: Jie Cao
+name: Anders Brandt
 image: images/members/member.jpg
 
 role: phd
@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Jie Cao is working as a PhD student. Her research focuses on deep learning to understand how morphology is associated with immunophenotype.
+Anders Brandt is working as a PhD student. His research focuses on exploring transcriptomic- and proteomic-based clusters of the iCAN flagship study.

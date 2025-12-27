@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Runhai He is working a PhD student. His research focuses on applying deep learning to build more accurate prognostic models in multiple myeloma.
+Runhai He is working as a PhD student. His research focuses on applying deep learning to build more accurate prognostic models in multiple myeloma.
