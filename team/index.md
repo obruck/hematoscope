@@ -58,6 +58,14 @@ filters="role: md"
 {%
   include gallery_new.html
 
+  image92="images/labfun/2025/prechristmas_2025.jpg"
+  link92="images/labfun/2025/prechristmas_2025.jpg"
+  tooltip92="Prechristmas celebration 2025"
+  
+  image92="images/labfun/2025/pizza_2025.jpg"
+  link92="images/labfun/2025/pizza_2025.jpg"
+  tooltip92="Group meeting 2025"
+  
   image93="images/labfun/2024/faro2024.jpg"
   link93="images/labfun/2024/faro2024.jpg"
   tooltip93="Prechristmas celebration 2024"
@@ -101,7 +109,7 @@ filters="role: md"
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Currently, we welcome PhD students and/or postdocs with experience especially in data analysis (R or Python). Feel free to reach out!
+Currently, we welcome PhD students and/or postdocs with skills in data science or computational analysis (e.g. decision trees, language models, transformers, multiple instance learning). Feel free to reach out!
 {:.center}
 
 {%
@@ -197,7 +205,7 @@ Our work is made possible by funding from several organizations (last 5 years).
   tooltip15="EU Innovative Health Initiative"
   
   image16="images/funding/eha.png"
-  link16="https://www.aka.fi/en/"
+  link16="https://ehaweb.org/"
   tooltip16="European Hematology Association"
   
   image17="images/funding/evansmds.png"
