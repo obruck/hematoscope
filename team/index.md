@@ -58,9 +58,9 @@ filters="role: md"
 {%
   include gallery_new.html
 
-  image92="images/labfun/2025/prechristmas_2025.jpg"
-  link92="images/labfun/2025/prechristmas_2025.jpg"
-  tooltip92="Prechristmas celebration 2025"
+  image91="images/labfun/2025/prechristmas_2025.jpg"
+  link91="images/labfun/2025/prechristmas_2025.jpg"
+  tooltip91="Prechristmas celebration 2025"
   
   image92="images/labfun/2025/pizza_2025.jpg"
   link92="images/labfun/2025/pizza_2025.jpg"
