@@ -1,5 +1,48 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1002/cpt.70116
+  title: "Enhancing Severe Neutropenia Prediction:\n                    <scp>PKPD</scp>\n\
+    \                    \u2010Informed Labeling for Machine Learning Models Trained\
+    \ on Real\u2010World Data"
+  authors:
+  - "Conor J O\u2019Hanlon"
+  - Jonas Denck
+  - Elif Ozkirimli
+  - Stefanie Bendels
+  - Candice Jamois
+  - Clarisse Chavanne
+  - Dirk Fey
+  - Kimmo Porkka
+  - "Oscar Br\xFCck"
+  - Ken Wang
+  publisher: Clinical Pharmacology & Therapeutics
+  date: '2025-11-10'
+  link: https://ascpt.onlinelibrary.wiley.com/doi/pdf/10.1002/cpt.70116
+- id: 10.1016/j.clml.2025.12.002
+  title: Improved Outcomes Following the Adoption of Targeted Therapies in High-Risk
+    Chronic Lymphocytic Leukaemia Treated in Southern Finland
+  authors:
+  - Tuija Tapaninen
+  - "Vesa Lindstr\xF6m"
+  - "Olivia H\xF6ls\xE4"
+  - Emma-Leena Alarmo
+  - Liisa Ukkola-Vuoti
+  - Kimmo Porkka
+  - "Oscar Br\xFCck"
+  publisher: Clinical Lymphoma Myeloma and Leukemia
+  date: '2025-12-01'
+  link: https://api.elsevier.com/content/article/PII:S2152265025042971?httpAccept=text/xml
+- id: 10.1016/j.esmorw.2025.100196
+  title: DIPSS and DIPSS Plus risk scoring in myelofibrosis utilizing automated, electronic
+    health record-integrated decision system
+  authors:
+  - A. Mervaala-Muroke
+  - M. Lehto
+  - K. Porkka
+  - "O. Br\xFCck"
+  publisher: ESMO Real World Data and Digital Oncology
+  date: '2025-12-01'
+  link: https://api.elsevier.com/content/article/PII:S2949820125000852?httpAccept=text/xml
 - id: doi:10.1038/s41375-025-02769-2
   title: Granulocyte abundance and maturation state at diagnosis predicts treatment-free
     remission in CML
@@ -235,7 +278,7 @@
   image: images/publications/mm.jpeg
   tags:
   - multiple myeloma
-  - real-world data
+  - registry analysis
   - treatment patterns
 - id: doi:10.1038/s43856-023-00418-2
   title: A bibliometric analysis of geographic disparities in the authorship of leading

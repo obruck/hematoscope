@@ -1,5 +1,8 @@
 from util import *
 from importlib import import_module
+import requests
+import html
+
 
 # config info for input/output files and plugins
 config = {}
@@ -57,6 +60,42 @@ except Exception as message:
 # list of new citations to overwrite existing citations
 new_citations = []
 
+# --- Crossref → CSL mapper ---
+def crossref_to_csl(crossref_json):
+    csl = {}
+    csl["id"] = crossref_json.get("DOI", "")
+    titles = crossref_json.get("title", [])
+    csl["title"] = html.unescape(titles[0]) if titles else ""
+    csl["authors"] = []
+    for author in crossref_json.get("author", []):
+        given = author.get("given", "")
+        family = author.get("family", "")
+        full_name = " ".join([given, family]).strip()
+        if full_name:
+            csl["authors"].append(full_name)
+    container_titles = crossref_json.get("container-title", [])
+    csl["publisher"] = html.unescape(container_titles[0]) if container_titles else ""
+    # date
+    date_parts = None
+    if "published-print" in crossref_json:
+        date_parts = crossref_json["published-print"].get("date-parts", [[]])[0]
+    elif "published-online" in crossref_json:
+        date_parts = crossref_json["published-online"].get("date-parts", [[]])[0]
+    if date_parts:
+        year = str(date_parts[0]) if len(date_parts) > 0 else "0000"
+        month = f"{date_parts[1]:02d}" if len(date_parts) > 1 else "01"
+        day = f"{date_parts[2]:02d}" if len(date_parts) > 2 else "01"
+        csl["date"] = f"{year}-{month}-{day}"
+    else:
+        csl["date"] = "0000-01-01"
+    # link
+    links = crossref_json.get("link", [])
+    if links:
+        csl["link"] = links[0].get("URL", crossref_json.get("URL", ""))
+    else:
+        csl["link"] = crossref_json.get("URL", "")
+    return csl
+
 # go through sources
 for index, source in enumerate(sources):
     # show progress
@@ -71,12 +110,28 @@ for index, source in enumerate(sources):
         new_citations.append(cached)
 
     else:
-        # use Manubot to generate new citation
-        log("Using Manubot to generate new citation", 3)
+        # use Crossref mapper to generate new citation
+        log("Using Crossref API to generate new citation", 3)
         try:
-            new_citations.append(cite_with_manubot(source))
-        except Exception as message:
-            log(message, 3, "")
+            doi = source.get("id")
+            if not doi:
+                raise ValueError("Missing source id")
+
+            # ensure doi prefix
+            doi = doi if doi.startswith("doi:") else f"doi:{doi}"
+
+            # fetch Crossref metadata
+            resp = requests.get(f"https://api.crossref.org/works/{doi[4:]}")
+            if resp.status_code != 200:
+                raise RuntimeError(f"Crossref lookup failed for {doi}: {resp.status_code}")
+            crossref_data = resp.json()["message"]
+
+            # convert to CSL
+            citation = crossref_to_csl(crossref_data)
+            new_citations.append(citation)
+
+        except Exception as e:
+            log(f"Failed to generate citation for {doi}: {e}", 3, "")
             exit(1)
 
 log("Exporting citations")
