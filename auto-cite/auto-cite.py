@@ -61,11 +61,28 @@ except Exception as message:
 new_citations = []
 
 # --- Crossref → CSL mapper ---
-def crossref_to_csl(crossref_json):
+def crossref_to_csl(crossref_json, source=None):
+    """
+    Convert Crossref JSON metadata into a minimal CSL-like dict,
+    preserving custom fields from the original source (e.g., tags, image).
+    
+    Args:
+        crossref_json (dict): The 'message' part of a Crossref API response.
+        source (dict, optional): Original source dict from sources.yaml.
+        
+    Returns:
+        dict: CSL-like citation dictionary.
+    """
     csl = {}
+
+    # --- DOI ---
     csl["id"] = crossref_json.get("DOI", "")
+
+    # --- Title ---
     titles = crossref_json.get("title", [])
     csl["title"] = html.unescape(titles[0]) if titles else ""
+
+    # --- Authors ---
     csl["authors"] = []
     for author in crossref_json.get("author", []):
         given = author.get("given", "")
@@ -73,14 +90,18 @@ def crossref_to_csl(crossref_json):
         full_name = " ".join([given, family]).strip()
         if full_name:
             csl["authors"].append(full_name)
+
+    # --- Publisher / Journal ---
     container_titles = crossref_json.get("container-title", [])
     csl["publisher"] = html.unescape(container_titles[0]) if container_titles else ""
-    # date
+
+    # --- Date ---
     date_parts = None
     if "published-print" in crossref_json:
         date_parts = crossref_json["published-print"].get("date-parts", [[]])[0]
     elif "published-online" in crossref_json:
         date_parts = crossref_json["published-online"].get("date-parts", [[]])[0]
+
     if date_parts:
         year = str(date_parts[0]) if len(date_parts) > 0 else "0000"
         month = f"{date_parts[1]:02d}" if len(date_parts) > 1 else "01"
@@ -89,44 +110,40 @@ def crossref_to_csl(crossref_json):
     else:
         csl["date"] = "0000-01-01"
 
-    # DOI resolver link (human-readable)
+    # --- DOI resolver link ---
     csl["link"] = f"https://doi.org/{crossref_json.get('DOI', '')}"
+
+    # --- Preserve custom fields from original source ---
+    if source:
+        for key in ["tags", "image"]:
+            if key in source:
+                csl[key] = source[key]
 
     return csl
 
 
 # go through sources
 for index, source in enumerate(sources):
-    # show progress
     log(f"Source {index + 1} of {len(sources)} - {source.get('id', '-')}", 2)
 
-    # find same source in existing citations
     cached = find_match(source, citations)
-
     if cached:
-        # use existing citation to save time
         log("Using existing citation", 3)
         new_citations.append(cached)
-
     else:
-        # use Crossref mapper to generate new citation
         log("Using Crossref API to generate new citation", 3)
         try:
             doi = source.get("id")
             if not doi:
                 raise ValueError("Missing source id")
-
-            # ensure doi prefix
             doi = doi if doi.startswith("doi:") else f"doi:{doi}"
 
-            # fetch Crossref metadata
             resp = requests.get(f"https://api.crossref.org/works/{doi[4:]}")
             if resp.status_code != 200:
                 raise RuntimeError(f"Crossref lookup failed for {doi}: {resp.status_code}")
             crossref_data = resp.json()["message"]
 
-            # convert to CSL
-            citation = crossref_to_csl(crossref_data)
+            citation = crossref_to_csl(crossref_data, source=source)
             new_citations.append(citation)
 
         except Exception as e:

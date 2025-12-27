@@ -1,18 +1,18 @@
 - id: doi:10.1002/cpt.70116
-  #image: images/publications/cml_mikko.png
+  image: images/publications/pkpd.png
   tags:
     - solid tumors
     - pkpd
     - registry analysis
 
 - id: doi:10.1016/j.clml.2025.12.002
-  #image: images/publications/cml_mikko.png
+  image: images/publications/cll.jpg
   tags:
     - chronic lymphocytic leukemia
     - registry analysis
 
 - id: doi:10.1016/j.esmorw.2025.100196
-  #image: images/publications/cml_mikko.png
+  image: images/publications/esmorwd.png
   tags:
     - myelofibrosis
     - risk scores
