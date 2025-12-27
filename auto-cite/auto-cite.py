@@ -88,13 +88,12 @@ def crossref_to_csl(crossref_json):
         csl["date"] = f"{year}-{month}-{day}"
     else:
         csl["date"] = "0000-01-01"
-    # link
-    links = crossref_json.get("link", [])
-    if links:
-        csl["link"] = links[0].get("URL", crossref_json.get("URL", ""))
-    else:
-        csl["link"] = crossref_json.get("URL", "")
+
+    # DOI resolver link (human-readable)
+    csl["link"] = f"https://doi.org/{crossref_json.get('DOI', '')}"
+
     return csl
+
 
 # go through sources
 for index, source in enumerate(sources):
