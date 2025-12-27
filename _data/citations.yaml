@@ -22,7 +22,7 @@
   - solid tumors
   - pkpd
   - registry analysis
-  image: images/publications/pkpd.png
+  image: images/publications/pkpd.jpg
 - id: 10.1016/j.clml.2025.12.002
   title: Improved Outcomes Following the Adoption of Targeted Therapies in High-Risk
     Chronic Lymphocytic Leukaemia Treated in Southern Finland
@@ -56,7 +56,7 @@
   - myelofibrosis
   - risk scores
   - registry analysis
-  image: images/publications/esmorwd.png
+  image: images/publications/esmorwd.jpg
 - id: doi:10.1038/s41375-025-02769-2
   title: Granulocyte abundance and maturation state at diagnosis predicts treatment-free
     remission in CML

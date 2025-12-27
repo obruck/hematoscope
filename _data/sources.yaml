@@ -1,5 +1,5 @@
 - id: doi:10.1002/cpt.70116
-  image: images/publications/pkpd.png
+  image: images/publications/pkpd.jpg
   tags:
     - solid tumors
     - pkpd
@@ -12,7 +12,7 @@
     - registry analysis
 
 - id: doi:10.1016/j.esmorw.2025.100196
-  image: images/publications/esmorwd.png
+  image: images/publications/esmorwd.jpg
   tags:
     - myelofibrosis
     - risk scores
