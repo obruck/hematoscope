@@ -22,6 +22,7 @@
   - solid tumors
   - pkpd
   - registry analysis
+  image: images/publications/pkpd.png
 - id: 10.1016/j.clml.2025.12.002
   title: Improved Outcomes Following the Adoption of Targeted Therapies in High-Risk
     Chronic Lymphocytic Leukaemia Treated in Southern Finland
@@ -39,6 +40,7 @@
   tags:
   - chronic lymphocytic leukemia
   - registry analysis
+  image: images/publications/cll.jpg
 - id: 10.1016/j.esmorw.2025.100196
   title: DIPSS and DIPSS Plus risk scoring in myelofibrosis utilizing automated, electronic
     health record-integrated decision system
@@ -54,7 +56,7 @@
   - myelofibrosis
   - risk scores
   - registry analysis
-  image: images/publications/cml_mikko.png
+  image: images/publications/esmorwd.png
 - id: doi:10.1038/s41375-025-02769-2
   title: Granulocyte abundance and maturation state at diagnosis predicts treatment-free
     remission in CML
