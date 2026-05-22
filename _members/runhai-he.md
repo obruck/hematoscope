@@ -1,6 +1,6 @@
 ---
 name: Runhai He
-image: images/members/member.jpg
+image: images/members/Runhai1.jpg
 
 role: phd
 links:

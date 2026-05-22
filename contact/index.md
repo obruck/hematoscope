@@ -7,8 +7,8 @@ nav:
 
 # <i class="fas fa-envelope"></i> Contact
 
-Our lab is part of the Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en), Helsinki, Finland.
-We are located both in the hemalogy clinical laboratory of [HUSLAB Tullinpuomi](https://www.hus.fi/en/hospitals-and-other-units/tullinpuomi-laboratory) and on the 4th floor of the [Biomedicum Helsinki I](https://biomedicum.com/) building.
+Our lab is part of the Comprehensive Cancer Center, Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en) and Faculty of Medicine, [University of Helsinki](https://www.helsinki.fi/en/faculty-medicine), Helsinki, Finland.
+We are located at [Biomedicum 2C](https://biomedicum.com/), 6th floor, Tukholmankatu 8C, 00290, Helsinki, Finland.
 
 {:.center}
 
@@ -36,7 +36,7 @@ We are located both in the hemalogy clinical laboratory of [HUSLAB Tullinpuomi](
   icon=""
   text="Google Maps"
   tooltip="Our location on Google Maps for easy navigation"
-  link="https://www.google.com/maps/place/Biomedicum/@60.2196817,24.7911862,11.33z/data=!4m5!3m4!1s0x46920a1fa6324c07:0x5e3bcefb5b26e3e1!8m2!3d60.1906098!4d24.9056856"
+  link="https://www.google.com/maps/place/Biomedicum+2U/@60.1903947,24.9036746,17.74z/data=!4m6!3m5!1s0x46920a1e55512be9:0xf8f77dc32dd4a28e!8m2!3d60.1906466!4d24.9041779!16s%2Fg%2F11gdspsv1h?entry=ttu&g_ep=EgoyMDI2MDUyMC4wIKXMDSoASAFQAw%3D%3D"
   style="button"
 %}
 
