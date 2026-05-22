@@ -2,7 +2,7 @@
 name: Oona Rinkinen
 image: images/members/oona.jpg
 #description: Laboratory Medicine
-role: undergrad
+role: phd
 #links:
 #  home-page: felixcited.com
 #  email: felix@cited.com
