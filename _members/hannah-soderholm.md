@@ -9,4 +9,4 @@ role: phd
 #  twitter: felixcited
 ---
 
-Hannah is a hematologist and a PhD student.
+Hannah Söderholm, MD, is a specialist in Hematology and Internal Medicine, working at the Comprehensive Cancer Center at Helsinki University Hospital (HUS). She has a special interest in plasma cell diseases, and her research focuses on cost effectiveness in hematology.

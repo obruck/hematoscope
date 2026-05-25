@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Runhai He is working as a PhD student. His research focuses on applying deep learning to build more accurate prognostic models in multiple myeloma.
+Runhai is a PhD candidate with a background in computer science, specializing in the application of machine learning and deep learning techniques for medical data analysis. His current research focuses on survival analysis in multiple myeloma, where he develops multimodal models that integrate clinical data and cellular imaging to support prognostic prediction. Runhai has extensive experience in statistical data analysis and information system development, and he is deeply motivated to continuously explore new algorithmic frameworks and advanced statistical methodologies.
