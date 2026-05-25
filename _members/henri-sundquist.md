@@ -1,6 +1,6 @@
 ---
 name: Henri Sundquist
-image: images/members/Henri2.jpg
+image: images/members/Henri1.jpg
 #description: Principal investigator
 role: phd
 links:
