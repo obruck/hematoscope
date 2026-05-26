@@ -39,6 +39,12 @@ filters="role: engineer"
 include list.html
 data="members"
 component="portrait"
+filters="role: illustrator"
+%}
+{%
+include list.html
+data="members"
+component="portrait"
 filters="role: undergrad"
 %}
 
