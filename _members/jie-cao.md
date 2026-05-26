@@ -1,6 +1,6 @@
 ---
 name: Jie Cao
-image: images/members/member.jpg
+image: images/members/Jie1.jpg
 
 role: phd
 links:
