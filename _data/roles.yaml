@@ -30,6 +30,10 @@ regulation:
   icon: fa fa-legal
   text: Regulation Specialist
 
+illustrator:
+  icon: fa-thin fa-pen-nib
+  text: Illustrator
+
 mascot:
   icon: fas fa-dog
   text: Mascot
