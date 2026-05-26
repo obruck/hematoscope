@@ -2,7 +2,7 @@
 name: Karita Selonen
 image: images/members/member.jpg
 
-role: illustrator
+role: mascot
 links:
   #linkedin: otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
