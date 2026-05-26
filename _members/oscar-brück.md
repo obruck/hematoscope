@@ -8,9 +8,26 @@ role: pi
 links:
   orcid: 0000-0002-7842-9419
   email: oscarbruck@hus.fi
-  twitter: oscarbruck
-  #linkedin: oscarbruck
+  #twitter: oscarbruck
+  linkedin: oscarbruck
   google-scholar: RDtkUAgAAAAJ
 ---
 
-Oscar graduated as an MD in 2016 and PhD in 2021 from the University of Helsinki. In his PhD studies in the Hematology Research Unit Helsinki (supervisor: Prof. Satu Mustjoki lab), he investigated leukemia immunology and bone marrow morphology. Since 2018, he has been developing and maintaining the Helsinki University Hospital hematological [Datalake](www.oscarbruck.fi/datalake) clinical database. In 2020, Oscar became interested in developing a computer vision-based diagnostic platform to analyze May-Grünwald-Giemsa (MGG)-stained bone marrow aspirate and peripheral blood smear slides. Hematoscope was created solve this challenge! You'll likely find Oscar by his computer, repairing the microscope or jogging outside.
+I am a group leader focusing 100% in research in the cross sections of oncology, AI and
+computational hematology. My career began in Prof. Kallioniemi’s group studying breast cancer
+treatment resistance (2010). I performed a PhD on the immune system of leukemia patients under
+the supervision of Prof. Mustjoki, and postdoctoral studies with Prof. Porkka starting the development of the HUS
+Hematology clinical database and related softwares (text mining, data harmonization).
+
+In 2021, I founded the Hematoscope Lab, where we integrate image, clinical, genomic, and proteomic data with
+advanced computational methods to study blood cancers. Working with students challenges me every day and I'm really
+passionate about it. Equally rewarding is my work on the technical side, where I write code to curate and analyze
+complex clinical data.
+
+As principal investigator, I lead 3 multi-center studies involving hospitals from >10 countries and supervise PhD students. 
+My lab has secured funding from national foundations, EU-wide programs (3 grants), Academy of Finland (2 grants) 
+and an U.S.-based foundation (1 grant). Finally, I have been actively advocated to improve research laws by 
+publishing evidence and participating in working groups since 2023, which have contributed to changes in the
+Secondary Use Act, Act on Clinical Trials, and the Tissue Act.
+
+Motto: "If it was easy, someone else would have already done it!"
