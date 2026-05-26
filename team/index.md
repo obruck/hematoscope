@@ -158,10 +158,6 @@ Our work is made possible by funding from several organizations (last 5 years).
   link2="https://www.sigridjuselius.fi/en/"
   tooltip2="Juselius Foundation"
   
-  image3="images/funding/pss.png"
-  link3="https://pss-saatio.fi/en/"
-  tooltip3="Päivikki and Sakari Sohlberg Foundation"
-  
   image4="images/funding/fls.png"
   link4="https://fls.fi/"
   tooltip4="Finska Läkaresällskapet Foundation"
@@ -170,10 +166,6 @@ Our work is made possible by funding from several organizations (last 5 years).
   link5="https://www.gyllenbergs.fi/en"
   tooltip5="Signe & Ane Gyllenberg Foundation"
 
-  image6="images/funding/rbs.png"
-  link6="https://runarbackstrominsaatio.fi/en/"
-  tooltip6="Runar Bäckström Foundation"
-
   image7="images/funding/laaketieteensaatio.png"
   link7="https://laaketieteensaatio.fi/en/home/"
   tooltip7="Finnish Medical Foundation"
@@ -181,18 +173,6 @@ Our work is made possible by funding from several organizations (last 5 years).
   image8="images/funding/syopasaatio.png"
   link8="https://syopasaatio.fi/"
   tooltip8="Finnish Cancer Foundation"
-  
-  image9="images/funding/minerva.png"
-  link9="https://minervafoundation.fi"
-  tooltip9="Minerva Foundation"
-  
-  image10="images/funding/KAlbinJohansson.png"
-  link10="https://www.foundationweb.net/johansson/"
-  tooltip10="K Albin Johansson Foundation"
-  
-  image11="images/funding/paulo.png"
-  link11="https://www.paulo.fi/"
-  tooltip11="Paulo Foundation"
   
   image12="images/funding/gilead.png"
   link12="https://www.gilead.com/science-and-medicine/research"
