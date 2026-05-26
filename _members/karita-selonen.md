@@ -10,4 +10,4 @@ links:
   #twitter: oscarbruck
 ---
 
-Karita has a Bachelor of Culture and Art in Design (Visual Communication Design) from Metropolia University of Applied Sciences. They have experience from a variety of industries, such as video game development and advertising. They’re current mission is to provide support in making research more visually clear and accessible. Along with the creative profession they have acquired a wide variety of hobbies from crafting and baking to sports and reading.
+Karita has a Bachelor of Culture and Art in Design (Visual Communication Design) from Metropolia University of Applied Sciences. They have experience from a variety of industries, such as video game development and advertising. Their current mission is to provide support in making research more visually clear and accessible. Along with the creative profession they have acquired a wide variety of hobbies from crafting and baking to sports and reading.
