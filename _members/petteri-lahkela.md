@@ -10,4 +10,4 @@ role: undergrad
 #twitter: oscarbruck
 ---
 
-Petteri Lahkela is working as a Engineering student.
+Petteri is a MSc student at Aalto University majoring in Control, Robotics, and Autonomous Systems, interested in building practical automation tools that simplify workflows. Currently working on his Master’s Thesis at Hematoscope Lab, developing an LLM-based NLP pipeline for extracting structured data from hematology referrals and bone marrow reports. Outside of work he enjoys golf, music, and trying new sports.

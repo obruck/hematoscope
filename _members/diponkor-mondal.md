@@ -8,4 +8,5 @@ role: engineer
 #  email: felix@cited.com
 #  twitter: felixcited
 ---
-Diponkor holds an M.Sc in Biomedical Engineering from the University of Oulu and is now pursuing a professional master’s degree (M.Eng.) in MedTech at the Metropolia University of Applied Sciences. He specializes in regulatory affairs and quality management for in vitro diagnostic devices, focusing on EU IVDR compliance for the Hematoscope App. He is dedicated to integrating regulatory standards with innovative technology to support safe and effective clinical applications. Diponkor is working closely with Mikko.
+
+Diponkor holds an M.Sc. in Biomedical Engineering from the University of Oulu and a professional M.Eng. in MedTech from Metropolia UAS. He specializes in regulatory affairs and quality management for in vitro diagnostic devices, focusing on EU IVDR and FDA compliance. He contributes to the EU4MEDTECH Horizon Europe project, supporting evidence synthesis and regulatory readiness. Diponkor is dedicated to integrating regulatory standards with innovative technology to support safe and effective clinical applications.
