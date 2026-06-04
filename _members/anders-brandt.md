@@ -10,4 +10,6 @@ links:
   #twitter: oscarbruck
 ---
 
-Anders Brandt is working as a PhD student. His research focuses on exploring transcriptomic- and proteomic-based clusters of the iCAN flagship study.
+Anders is a doctoral student exploring how unsupervised deep learning can be applied to oncology data. His current work focuses on integrating transcriptomic and spatial proteomic data to uncover structure in tumor biology without relying on predefined labels.
+
+He holds an MSc in Translational Medicine from the University of Helsinki. Before joining the lab, his research centered on the tumor microenvironment's role in tumor formation and polyposis.
