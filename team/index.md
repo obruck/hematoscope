@@ -64,6 +64,14 @@ filters="role: md"
 {%
   include gallery_new.html
 
+  image89="images/labfun/2026/EHA2026.jpeg"
+  link89="images/labfun/2026/EHA2026.jpeg"
+  tooltip89="EHA 2026"
+  
+  image90="images/labfun/2026/Minigolf.jpg"
+  link90="images/labfun/2026/Minigolf.jpg"
+  tooltip90="Minigolf 2026"
+  
   image91="images/labfun/2025/prechristmas_2025.jpg"
   link91="images/labfun/2025/prechristmas_2025.jpg"
   tooltip91="Prechristmas celebration 2025"
