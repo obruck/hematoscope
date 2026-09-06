@@ -1,5 +1,80 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1038/s41746-026-03145-9
+  title: Interpretable multi-modal hierarchical framework to support cytomorphological
+    analysis of hematologic cancers
+  authors:
+  - Junxia Wang
+  - Mikael Tatun
+  - Mikko Purhonen
+  - Henri Sundquist
+  - Lotta Joutsi-Korhonen
+  - Sanna Siitonen
+  - "Anna Lempi\xE4inen"
+  - Yuanjie Zheng
+  - "Oscar Br\xFCck"
+  publisher: npj Digital Medicine
+  date: '2026-08-29'
+  link: https://doi.org/10.1038/s41746-026-03145-9
+  tags:
+  - pan-hematology
+  - image analysis
+  - cellbytes
+  image: images/publications/junxia_npjdm.png
+- id: 10.1002/hem3.70319
+  title: Deep cytomorphology identifies erythroid skewing and monocytic morphology
+    to predict TKI sensitivity in CML patients
+  authors:
+  - Katariina Luukkainen
+  - Mikko Purhonen
+  - Mikael Tatun
+  - Kevin Hung
+  - Oda Tafjord
+  - Henri Sundquist
+  - "Stina S\xF6derlund"
+  - "Shady Adnan\u2010Awad"
+  - Anni Dohlen
+  - Johanna Heikkinen
+  - Perttu Koskenvesa
+  - "Lotta Joutsi\u2010Korhonen"
+  - "Anna Lempi\xE4inen"
+  - Sanna Siitonen
+  - Satu Mustjoki
+  - Naranie Shanmuganathan
+  - Coral Bryce
+  - Signe Danielsson
+  - "Henrik Hjorth\u2010Hansen"
+  - "Ulla Olsson\u2010Str\xF6mberg"
+  - Takashi Kumagai
+  - Shinya Kimura
+  - David M. Ross
+  - "Oscar Br\xFCck"
+  publisher: HemaSphere
+  date: '2026-02-01'
+  link: https://doi.org/10.1002/hem3.70319
+  tags:
+  - chronic myeloid leukemia
+  - image analysis
+  - cellbytes
+  image: images/publications/kata_hemasphere.png
+- id: 10.1007/s00277-026-06863-y
+  title: Novel therapies in myeloid neoplasms show limited benefit and increased costs
+    over 15 years of follow-up in Southern Finland
+  authors:
+  - Theerin Lanamtieng
+  - Anna Mervaala-Muroke
+  - Laura Toivanen
+  - Kimmo Porkka
+  - "Oscar Br\xFCck"
+  publisher: Annals of Hematology
+  date: '2026-02-06'
+  link: https://doi.org/10.1007/s00277-026-06863-y
+  tags:
+  - acute myeloid leukemia
+  - myelodysplastic
+  - myelofibrosis
+  - registry analysis
+  image: images/publications/theerin_ah.png
 - id: 10.1002/cpt.70116
   title: "Enhancing Severe Neutropenia Prediction:\n                    <scp>PKPD</scp>\n\
     \                    \u2010Informed Labeling for Machine Learning Models Trained\

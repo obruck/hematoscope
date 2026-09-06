@@ -7,7 +7,7 @@ nav:
 
 # <i class="fas fa-microscope"></i>Research
 
-In hematology, there is an acute unmet need for automated machine vision to speed up routine diagnostics due to persistant shortage of trained laboratory physicians and increasing number of analyzed samples per year. Our recent results suggest that peripheral blood and bone marrow samples have an unexplored potential in disease subclassification, with direct possibilities of translation to patient prognostication (Brück et al, 2021).  
+One of key challenges in the diagnostics of hematological diseases is very practical. There is persistant shortage of trained laboratory physicians and increasing number of analyzed samples per year. Automated computer vision could offer various solutions to relieve this pressure. Our recent work demonstrates that routine peripheral blood and bone marrow samples contain overlooked morphological information capable of refining disease subclassification. By capturing subtle cellular patterns that are difficult to evaluate consistently by hand, automated image analysis can accelerate diagnostics, but also reveal insights on risk stratification, treatment response and even occurrence of genomic alterations.  
 <br>
 {%
 include figure.html
@@ -16,9 +16,21 @@ caption="The automated slide scanner"
 width="100%"
 %}
 <br>
-We have set up a digital slide scanner in the Helsinki University Hospital laboratory (HUSLAB). We have digitized standard cytomorphological samples into an extensive digital image archive. The second aim of the project is to develop image analysis algorithms to decode cell morphologies present in the hematocytological samples. Our software will replicate cytopathological examination of bone marrow and blood samples by detecting and classifying cells into 17 different types, inform of signs of dysplasia, and notify on the sample's general composition. In addition, the software can identify novel biomarkers of treatment.  
-<br>
-Computer-assisted diagnostics will reduce time required for slide examination, provide deeper information on risk and treatment stratification, and help us to better understand the biology of various disease phenotypes. The extensive image archive will serve both in terms of quality control of bone marrow products, standardize the training of specializing physicians, and improve future collaboration with hospitals, research groups, and companies. In summary, we will build a globally unique image dataset of hematological patients with the ultimate aim to develop and integrate severely needed algorithms into clinical practice.
+The research group has four major aims:  
+- (1) Digital image archive: We aim to digitize cytomorphological samples into an extensive digital image archive covering all hematological conditions and both pediatric and adult patients.  
+- (2) Train, evaluate and explain image analysis algorithms to decode cell morphologies present in the hematocytological samples. We have developed algorithms for the Cellbytes software (CE-IVDR, [www.cellbytes.io](www.cellbytes.io)) to replicate cytopathological examination of bone marrow aspirates and peripheral blood smears by detecting and classifying cells into 17 different types, inform of signs of dysplasia, and notify on the sample's general composition.  
+- (3) Establish a pan-hematological research registry (Helsinki Hematology Research Registry) linking electronic health records to automatically updated disease tables covering the entire patient trajectory from pre-diagnosis, diagnosis, treatments, treatment response, and last date of follow-up.  
+- (4) Identify novel cytomorphological fingerprints of treatment response, genetic and cytogenetic alterations, and leukemia precursor states.  
+
+{%
+include figure.html
+image="images/registry/registry.png"
+width="100%"
+%}
+
+In summary, Hematoscope Lab is examining whether computer-assisted diagnostics could reduce time required for slide examination, provide deeper information on risk and treatment stratification, and help us to better understand the biology of various disease phenotypes.
+
+The Hematoscope Lab adheres to both international and national data privacy regulations. Read our [Statement on Fulfillment of Articles 13 and 14 GDPR Information Obligations](/docs/GDPR_hematoscopelab.html).
 
 {% include section.html %}
 

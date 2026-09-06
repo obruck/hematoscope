@@ -4,7 +4,7 @@ title: Home
 
 # Hematology & microscopy
 
-The Hematoscope Lab is an academic team of physicians, programmers, technicians and students affiliated with the Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en/) and [HUSLAB](https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging). We aim to solve how clinical experts can harness machines to better understand, diagnose and monitor hematological diseases. Our approach is to combine high-resolution automated imaging, big data analysis in the hospital Datalake and deep learning-based image analysis.
+The Hematoscope Lab is an academic team of physicians, programmers, technicians and students affiliated with the Hospital District of Helsinki and Uusimaa [HUS](https://www.hus.fi/en/) and [HUSLAB](https://www.hus.fi/en/patient/treatments-and-examinations/laboratories-and-imaging). We aim to solve how clinical experts can harness machines to better understand, diagnose and monitor hematological diseases. Our approach is to combine high-resolution automated imaging, detailed patient history from the hospital Datalake and developing advanced and reliable data and image analytics.
   
 <!--{%
   include link.html
