@@ -17,11 +17,11 @@
   link: https://github.com/obruck/International-Research-Impact
   description: Reproduction of plots and statistical analyses of two publications on bibliometric analyses
 
-- name: Hematology datalake catalogue
+- name: Helsinki Hematology research registry catalogue
   group: data
   image: images/tools/HUS_Tietoevry_cleverhealth_141221.png
-  link: https://www.oscarbruck.fi/datalake
-  description: Dashboard of the HUS hematology datalake
+  link: https://www.hematoscopelab.com/datalake
+  description: Dashboard of the Helsinki Hematology Research Registry
 
 - name: Implementing a Functional Precision Medicine Tumor Board for Acute Myeloid Leukemia
   group: data
