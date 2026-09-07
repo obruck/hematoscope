@@ -2,7 +2,7 @@
 name: Junxia Wang
 image: images/members/junxia.jpg
 
-role: phd
+role: postdoc
 links:
   #linkedin: otso-brummer-166147113/
   #orcid: 0000-0002-7842-9419
