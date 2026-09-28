@@ -59,6 +59,17 @@
   link: https://www.ebi.ac.uk/biostudies/bioimages/studies/S-BIAD12
   description: Multiplex immunohistochemistry stainings on AML, ALL, CML and control human bone marrow samples
 
+- name: Computational Cytomorphology and TKI Sensitivity in CML
+  group: code
+  image: images/publications/kata_hemasphere.png
+  link: https://github.com/obruck/CML_morphoclinical_score
+  description: Computational Cytomorphology Analysis Identifies an Erythroid Shift to Increase TKI Sensitivity In CML
+
+- name: European Health Regulations Reduce Registry-Based Research
+  group: code
+  image: images/publications/map.png
+  link: https://github.com/obruck/Nav-Reg-Res
+  description: European Health Regulations Reduce Registry-Based Research
 
 #- name: Cool Dataset
 #  group: featured
