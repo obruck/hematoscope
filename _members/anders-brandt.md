@@ -1,6 +1,6 @@
 ---
 name: Anders Brandt
-image: images/members/member.jpg
+image: images/members/Anders.jpeg
 
 role: phd
 links:

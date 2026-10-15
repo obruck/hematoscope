@@ -1,6 +1,6 @@
 ---
 name: Karita Selonen
-image: images/members/member.jpg
+image: images/members/Karita2.jpeg
 
 role: illustrator
 links:
