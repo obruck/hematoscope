@@ -1,6 +1,6 @@
 ---
 name: Petteri Lahkela
-image: images/members/member.jpg
+image: images/members/petteri1.jpg
 
 role: undergrad
 #links:
