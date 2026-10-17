@@ -1,5 +1,20 @@
 # GENERATED AUTOMATICALLY, DO NOT EDIT
 
+- id: 10.1038/s41746-026-03356-0
+  title: Availability of performance evidence of approved AI diagnostic software in
+    pathology and hematology morphology
+  authors:
+  - Diponkor Mondal
+  - Mikko Purhonen
+  - "Ana Maru\u0161i\u0107"
+  - "Oscar Br\xFCck"
+  publisher: npj Digital Medicine
+  date: '2026-10-05'
+  link: https://doi.org/10.1038/s41746-026-03356-0
+  tags:
+  - ivdr
+  - performance evaluation
+  image: images/publications/diponkor_publ.png
 - id: 10.1038/s41746-026-03145-9
   title: Interpretable multi-modal hierarchical framework to support cytomorphological
     analysis of hematologic cancers
